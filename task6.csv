@@ -1,0 +1,1251 @@
+Order Date,Amount,Product ID,Customer ID,Customer Name,Category,City,Payment Method,Quantity,Order Status
+2025-06-08,15614.57,PRD124,CUST7232,Riya Singh,Home & Kitchen,Mumbai,Credit Card,3,Pending
+2023-03-18,16848.57,PRD014,CUST5023,Arjun Patel,Beauty,Mumbai,Credit Card,1,Cancelled
+2025-02-25,32486.68,PRD123,CUST8405,Sourav Das,Electronics,Mumbai,Credit Card,5,Cancelled
+2024-06-26,16557.69,PRD137,CUST9890,Amit Verma,Clothing,Hyderabad,Cash on Delivery,1,Delivered
+2025-04-07,33214.41,PRD009,CUST7620,Sourav Das,Toys,Chennai,Cash on Delivery,1,Cancelled
+2025-06-27,2516.64,PRD073,CUST1882,Sourav Gupta,Books,Bangalore,Credit Card,4,Cancelled
+2024-02-20,40025.44,PRD024,CUST2991,Sourav Das,Home & Kitchen,Delhi,UPI,5,Delivered
+2024-03-16,32591.71,PRD059,CUST5943,Anjali Sen,Books,Bangalore,Cash on Delivery,3,Cancelled
+2025-04-14,22729.52,PRD090,CUST6831,Rahul Singh,Toys,Chennai,Debit Card,1,Delivered
+2024-03-07,5217.51,PRD117,CUST4892,Sourav Roy,Clothing,Chennai,UPI,1,Pending
+2023-04-02,36404.91,PRD011,CUST4718,Sneha Roy,Home & Kitchen,Delhi,Cash on Delivery,3,Cancelled
+2023-10-09,6354.2,PRD050,CUST6573,Riya Roy,Clothing,Bangalore,Cash on Delivery,4,Cancelled
+2023-08-22,37409.13,PRD016,CUST4700,Priya Sharma,Books,Hyderabad,Credit Card,5,Delivered
+2023-08-01,47945.94,PRD036,CUST2332,Vikram Patel,Clothing,Bangalore,Debit Card,2,Cancelled
+2024-02-13,9517.25,PRD137,CUST9605,Rahul Singh,Beauty,Kolkata,UPI,5,Pending
+2025-03-18,21670.67,PRD060,CUST4252,Anjali Sen,Clothing,Delhi,Cash on Delivery,3,Delivered
+2025-02-03,32084.99,PRD032,CUST5475,Arjun Mitra,Home & Kitchen,Delhi,Cash on Delivery,2,Delivered
+2024-05-18,20216.26,PRD090,CUST1933,Priya Chatterjee,Books,Delhi,Debit Card,2,Cancelled
+2024-08-07,14726.5,PRD084,CUST8259,Rahul Mitra,Clothing,Delhi,Credit Card,4,Cancelled
+2024-05-14,17210.29,PRD061,CUST1045,Amit Patel,Toys,Mumbai,Debit Card,5,Pending
+2023-04-14,47029.23,PRD082,CUST6833,Sourav Roy,Toys,Hyderabad,Cash on Delivery,4,Cancelled
+2024-03-09,34832.72,PRD040,CUST1657,Arjun Mitra,Electronics,Bangalore,Credit Card,1,Delivered
+2023-12-02,25155.9,PRD078,CUST1760,Neha Roy,Toys,Hyderabad,Cash on Delivery,4,Delivered
+2023-06-09,36021.35,PRD014,CUST2962,Sneha Mitra,Clothing,Chennai,Cash on Delivery,3,Cancelled
+2025-05-19,25828.83,PRD112,CUST7533,Neha Patel,Electronics,Hyderabad,Debit Card,3,Cancelled
+2025-05-22,12717.84,PRD026,CUST3269,Sneha Sharma,Toys,Delhi,UPI,4,Pending
+2024-09-17,33812.03,PRD135,CUST2566,Arjun Roy,Books,Bangalore,UPI,5,Cancelled
+2024-09-19,15263.88,PRD066,CUST3317,Anjali Singh,Electronics,Mumbai,Cash on Delivery,2,Cancelled
+2024-07-18,7736.43,PRD105,CUST4173,Amit Roy,Home & Kitchen,Delhi,UPI,4,Cancelled
+2025-04-03,13026.94,PRD006,CUST4626,Amit Singh,Home & Kitchen,Mumbai,Cash on Delivery,4,Cancelled
+2024-05-18,44308.26,PRD054,CUST4808,Anjali Verma,Books,Hyderabad,Cash on Delivery,1,Pending
+2023-11-22,19941.87,PRD070,CUST5490,Neha Verma,Books,Delhi,UPI,5,Cancelled
+2024-08-20,21268.26,PRD113,CUST8598,Riya Mitra,Home & Kitchen,Delhi,Debit Card,2,Pending
+2023-09-24,26573.12,PRD066,CUST8673,Sneha Das,Clothing,Mumbai,UPI,4,Cancelled
+2023-11-12,22373.22,PRD108,CUST2017,Arjun Gupta,Home & Kitchen,Bangalore,UPI,3,Cancelled
+2023-02-09,3827.48,PRD077,CUST8298,Amit Gupta,Toys,Chennai,Cash on Delivery,2,Cancelled
+2023-01-07,38604.81,PRD143,CUST8012,Amit Sen,Beauty,Chennai,Debit Card,5,Cancelled
+2023-04-23,43095.95,PRD092,CUST4785,Sourav Gupta,Toys,Chennai,Cash on Delivery,1,Cancelled
+2025-04-29,43000.95,PRD017,CUST2370,Anjali Mitra,Toys,Mumbai,Debit Card,2,Delivered
+2024-01-03,25843.02,PRD114,CUST3379,Amit Roy,Beauty,Mumbai,UPI,3,Cancelled
+2023-01-14,47545.15,PRD072,CUST6636,Rahul Verma,Books,Chennai,Credit Card,1,Cancelled
+2023-07-07,37340.2,PRD132,CUST7575,Rahul Patel,Books,Delhi,Cash on Delivery,2,Delivered
+2024-04-15,40548.62,PRD039,CUST9812,Sneha Mitra,Toys,Mumbai,Debit Card,1,Delivered
+2024-06-10,46959.42,PRD010,CUST8993,Neha Chatterjee,Toys,Chennai,Credit Card,5,Delivered
+2023-08-06,47008.56,PRD046,CUST1321,Sourav Patel,Beauty,Kolkata,Credit Card,2,Pending
+2025-06-11,20455.75,PRD130,CUST6731,Sourav Sharma,Toys,Hyderabad,Cash on Delivery,5,Pending
+2024-03-22,44017.9,PRD075,CUST7855,Sourav Patel,Electronics,Mumbai,Debit Card,1,Cancelled
+2024-12-25,17246.66,PRD098,CUST4538,Rahul Sen,Books,Bangalore,UPI,5,Pending
+2023-07-11,49679.2,PRD090,CUST3107,Arjun Verma,Beauty,Bangalore,Debit Card,1,Pending
+2023-07-30,44397.09,PRD019,CUST6378,Anjali Gupta,Home & Kitchen,Delhi,Debit Card,4,Pending
+2024-05-12,20112.29,PRD073,CUST4776,Neha Gupta,Toys,Hyderabad,UPI,5,Cancelled
+2023-05-05,32853.23,PRD054,CUST7328,Amit Mitra,Electronics,Kolkata,Cash on Delivery,3,Pending
+2024-03-29,20114.07,PRD106,CUST5905,Sourav Verma,Toys,Bangalore,UPI,1,Pending
+2025-04-21,7054.36,PRD064,CUST1463,Neha Das,Clothing,Hyderabad,Cash on Delivery,3,Cancelled
+2024-04-20,22506.06,PRD037,CUST2614,Sourav Mitra,Clothing,Chennai,Debit Card,2,Delivered
+2024-09-07,14166.69,PRD052,CUST8542,Amit Gupta,Electronics,Kolkata,Debit Card,2,Delivered
+2024-03-14,11764.67,PRD115,CUST3279,Arjun Sen,Toys,Mumbai,Cash on Delivery,3,Delivered
+2023-03-20,49651.32,PRD036,CUST5697,Anjali Roy,Books,Mumbai,Cash on Delivery,5,Cancelled
+2024-11-25,28519.17,PRD146,CUST8612,Rahul Mitra,Clothing,Delhi,UPI,3,Pending
+2024-03-25,31885.74,PRD090,CUST7933,Neha Gupta,Home & Kitchen,Kolkata,Debit Card,4,Delivered
+2024-10-21,21597.16,PRD150,CUST2539,Neha Patel,Books,Bangalore,Cash on Delivery,5,Delivered
+2024-09-24,21741.14,PRD109,CUST2185,Anjali Patel,Beauty,Mumbai,Cash on Delivery,3,Pending
+2024-10-13,48041.54,PRD122,CUST3576,Sneha Verma,Books,Hyderabad,Credit Card,5,Pending
+2025-05-13,34307.68,PRD132,CUST8729,Rahul Chatterjee,Toys,Delhi,UPI,2,Cancelled
+2023-03-20,14478.64,PRD114,CUST8237,Anjali Das,Clothing,Delhi,Cash on Delivery,1,Cancelled
+2024-07-09,11773.9,PRD103,CUST8493,Anjali Gupta,Beauty,Chennai,Debit Card,5,Cancelled
+2024-04-24,43867.95,PRD002,CUST1262,Vikram Sen,Clothing,Kolkata,Debit Card,2,Cancelled
+2024-01-16,49231.12,PRD052,CUST1477,Sneha Roy,Beauty,Delhi,Credit Card,3,Delivered
+2024-10-27,42481.79,PRD088,CUST4752,Amit Singh,Books,Mumbai,UPI,3,Delivered
+2024-09-17,10447.25,PRD001,CUST2358,Anjali Verma,Books,Hyderabad,Debit Card,2,Pending
+2023-01-02,49876.33,PRD011,CUST9140,Riya Patel,Electronics,Bangalore,Debit Card,4,Pending
+2023-02-08,10247.47,PRD082,CUST4247,Vikram Sen,Toys,Mumbai,UPI,4,Pending
+2023-07-23,30089.02,PRD058,CUST9253,Rahul Gupta,Clothing,Chennai,Credit Card,4,Delivered
+2023-07-22,11110.93,PRD110,CUST6367,Sneha Chatterjee,Home & Kitchen,Mumbai,UPI,3,Cancelled
+2023-09-08,10766.72,PRD112,CUST1239,Rahul Mitra,Toys,Bangalore,UPI,5,Cancelled
+2025-03-23,42368.77,PRD150,CUST9731,Rahul Roy,Beauty,Bangalore,Credit Card,5,Delivered
+2024-08-11,4388.18,PRD116,CUST2968,Priya Das,Beauty,Hyderabad,UPI,2,Delivered
+2023-05-26,18417.74,PRD021,CUST4609,Priya Das,Beauty,Kolkata,Credit Card,1,Delivered
+2024-11-24,22843.43,PRD146,CUST9312,Riya Roy,Books,Delhi,UPI,3,Pending
+2023-06-30,7886.7,PRD063,CUST7038,Sourav Chatterjee,Toys,Mumbai,Credit Card,3,Pending
+2024-05-21,5785.43,PRD053,CUST6060,Priya Verma,Home & Kitchen,Hyderabad,Debit Card,4,Pending
+2024-03-12,45980.87,PRD121,CUST4385,Sneha Verma,Beauty,Kolkata,UPI,3,Cancelled
+2024-03-18,7848.12,PRD101,CUST3367,Sourav Singh,Electronics,Delhi,Debit Card,3,Pending
+2025-02-09,1833,PRD134,CUST6578,Sneha Roy,Books,Mumbai,Credit Card,4,Delivered
+2024-11-22,47306.05,PRD013,CUST9430,Amit Chatterjee,Toys,Chennai,Credit Card,4,Pending
+2025-01-15,44055.12,PRD142,CUST8228,Anjali Sharma,Books,Bangalore,Credit Card,1,Delivered
+2025-04-17,37278.49,PRD068,CUST7649,Sourav Singh,Home & Kitchen,Chennai,Credit Card,3,Delivered
+2024-02-24,2105.6,PRD106,CUST8442,Riya Das,Electronics,Hyderabad,UPI,5,Delivered
+2024-07-28,28858.27,PRD026,CUST8303,Amit Singh,Beauty,Kolkata,UPI,1,Pending
+2024-03-10,46426.7,PRD142,CUST9874,Rahul Singh,Home & Kitchen,Bangalore,UPI,2,Cancelled
+2025-05-26,40686.45,PRD038,CUST2509,Arjun Patel,Electronics,Bangalore,Credit Card,3,Cancelled
+2023-06-03,46379.78,PRD025,CUST9787,Arjun Sen,Beauty,Delhi,Cash on Delivery,4,Pending
+2024-04-25,10998.29,PRD115,CUST6411,Arjun Sharma,Books,Kolkata,Credit Card,2,Cancelled
+2024-05-11,6999.66,PRD078,CUST3965,Anjali Patel,Beauty,Bangalore,Debit Card,1,Cancelled
+2024-04-11,47607.1,PRD005,CUST5822,Arjun Verma,Toys,Mumbai,Cash on Delivery,1,Cancelled
+2024-04-15,25770.25,PRD021,CUST9148,Sourav Verma,Beauty,Kolkata,Credit Card,5,Pending
+2024-06-29,12184.15,PRD003,CUST3134,Sneha Sharma,Books,Bangalore,Credit Card,1,Pending
+2024-02-04,25813.43,PRD006,CUST2127,Priya Chatterjee,Books,Kolkata,Credit Card,5,Pending
+2024-11-11,14820.17,PRD100,CUST7486,Amit Patel,Home & Kitchen,Kolkata,Cash on Delivery,3,Delivered
+2023-01-16,32187.2,PRD010,CUST3918,Vikram Mitra,Toys,Delhi,Credit Card,4,Pending
+2023-07-06,8950.78,PRD048,CUST3126,Vikram Chatterjee,Toys,Mumbai,Cash on Delivery,5,Cancelled
+2025-05-13,32921.96,PRD063,CUST3671,Anjali Singh,Clothing,Mumbai,UPI,2,Pending
+2023-01-09,2002.12,PRD025,CUST3647,Anjali Gupta,Clothing,Mumbai,UPI,2,Pending
+2023-02-03,38471.53,PRD064,CUST6687,Priya Das,Electronics,Mumbai,Cash on Delivery,2,Pending
+2025-05-15,43723.27,PRD135,CUST5980,Anjali Patel,Toys,Mumbai,UPI,3,Pending
+2025-02-09,16017.55,PRD121,CUST1190,Vikram Sharma,Toys,Mumbai,Debit Card,1,Delivered
+2023-04-15,37142.72,PRD060,CUST2451,Sneha Roy,Home & Kitchen,Bangalore,Debit Card,4,Pending
+2023-02-14,42558.78,PRD106,CUST1028,Arjun Singh,Electronics,Chennai,Debit Card,3,Pending
+2024-05-25,27935.07,PRD037,CUST3130,Vikram Chatterjee,Electronics,Mumbai,Debit Card,2,Cancelled
+2024-05-10,20103.36,PRD146,CUST2480,Sourav Patel,Clothing,Mumbai,UPI,1,Pending
+2024-01-24,19208.96,PRD053,CUST1842,Sneha Verma,Beauty,Bangalore,Debit Card,1,Delivered
+2023-05-05,8134.89,PRD132,CUST7518,Anjali Mitra,Clothing,Hyderabad,Credit Card,1,Delivered
+2024-05-22,39096.37,PRD009,CUST3022,Amit Verma,Toys,Hyderabad,UPI,2,Pending
+2024-07-17,15960.16,PRD058,CUST7770,Neha Mitra,Electronics,Delhi,UPI,3,Delivered
+2023-05-11,8842.79,PRD065,CUST5799,Riya Sen,Toys,Delhi,Cash on Delivery,4,Delivered
+2025-06-11,21503.24,PRD145,CUST6614,Neha Patel,Toys,Kolkata,Cash on Delivery,5,Cancelled
+2024-05-30,43457.41,PRD102,CUST8422,Amit Singh,Beauty,Hyderabad,Credit Card,4,Cancelled
+2025-01-25,30433.18,PRD061,CUST1127,Anjali Patel,Home & Kitchen,Kolkata,Credit Card,4,Delivered
+2024-11-26,46734.23,PRD040,CUST9805,Arjun Sen,Home & Kitchen,Mumbai,UPI,5,Cancelled
+2025-05-20,39616.74,PRD150,CUST4790,Priya Singh,Electronics,Kolkata,Cash on Delivery,3,Pending
+2025-03-10,44775.17,PRD085,CUST5348,Neha Mitra,Clothing,Mumbai,Debit Card,2,Pending
+2023-07-16,33933.98,PRD071,CUST1760,Sneha Sharma,Home & Kitchen,Bangalore,Debit Card,5,Pending
+2025-02-14,41214.1,PRD045,CUST7590,Arjun Roy,Electronics,Chennai,UPI,4,Pending
+2023-02-15,28162.82,PRD028,CUST3958,Arjun Sen,Toys,Delhi,Debit Card,3,Delivered
+2023-03-15,23861.34,PRD123,CUST5070,Priya Chatterjee,Beauty,Kolkata,Credit Card,3,Cancelled
+2025-03-22,41104.75,PRD044,CUST3590,Riya Das,Books,Hyderabad,Debit Card,4,Cancelled
+2025-04-07,10146.28,PRD093,CUST3670,Arjun Sharma,Beauty,Bangalore,UPI,1,Pending
+2024-07-12,17001.71,PRD073,CUST8770,Amit Singh,Home & Kitchen,Bangalore,Credit Card,5,Delivered
+2025-04-02,35519.43,PRD085,CUST3683,Neha Mitra,Home & Kitchen,Delhi,UPI,3,Delivered
+2025-06-21,19482.09,PRD061,CUST9596,Riya Chatterjee,Clothing,Mumbai,Credit Card,1,Cancelled
+2024-03-23,18065.86,PRD009,CUST6680,Rahul Roy,Electronics,Bangalore,Cash on Delivery,2,Cancelled
+2023-03-03,18232.12,PRD043,CUST9727,Rahul Roy,Books,Kolkata,UPI,4,Pending
+2025-05-19,20987.15,PRD057,CUST4989,Rahul Gupta,Home & Kitchen,Chennai,Debit Card,4,Cancelled
+2024-05-19,20292.2,PRD090,CUST4643,Vikram Verma,Electronics,Bangalore,Credit Card,5,Cancelled
+2025-06-02,2418.67,PRD138,CUST3244,Arjun Sen,Electronics,Bangalore,Credit Card,1,Delivered
+2023-05-22,28548.04,PRD059,CUST2850,Riya Sen,Clothing,Bangalore,Credit Card,5,Delivered
+2025-02-03,8432.15,PRD069,CUST4476,Vikram Chatterjee,Beauty,Mumbai,Credit Card,2,Delivered
+2025-02-08,28163.01,PRD028,CUST3873,Sneha Gupta,Toys,Delhi,UPI,1,Delivered
+2024-07-02,24945.07,PRD099,CUST9246,Sneha Verma,Beauty,Hyderabad,UPI,4,Pending
+2024-02-12,44325.54,PRD006,CUST2975,Sneha Chatterjee,Electronics,Delhi,Credit Card,5,Pending
+2025-03-02,4604.74,PRD056,CUST3161,Arjun Roy,Electronics,Delhi,Credit Card,2,Delivered
+2024-07-07,8839.86,PRD008,CUST8982,Arjun Mitra,Books,Hyderabad,Cash on Delivery,1,Pending
+2023-11-27,36673.27,PRD093,CUST4602,Rahul Sen,Electronics,Delhi,Cash on Delivery,4,Cancelled
+2024-07-28,49339.03,PRD133,CUST3601,Vikram Roy,Home & Kitchen,Bangalore,Debit Card,3,Pending
+2024-04-09,14691.06,PRD090,CUST5690,Priya Mitra,Beauty,Mumbai,UPI,1,Pending
+2025-05-05,4793.67,PRD058,CUST5911,Sourav Sen,Beauty,Delhi,Credit Card,5,Cancelled
+2025-05-18,47053.57,PRD050,CUST6684,Sneha Sharma,Books,Kolkata,UPI,2,Delivered
+2023-06-04,15797.56,PRD094,CUST4534,Arjun Mitra,Clothing,Chennai,Debit Card,2,Pending
+2024-01-24,48018.76,PRD132,CUST6739,Amit Singh,Electronics,Hyderabad,Credit Card,3,Cancelled
+2023-12-17,12767.18,PRD041,CUST9047,Amit Mitra,Toys,Bangalore,UPI,1,Pending
+2024-09-30,11657.44,PRD022,CUST9206,Amit Sharma,Clothing,Delhi,UPI,4,Cancelled
+2023-04-14,25157.35,PRD061,CUST2164,Amit Mitra,Home & Kitchen,Bangalore,UPI,2,Pending
+2023-03-24,938.12,PRD053,CUST2547,Sneha Verma,Books,Delhi,Cash on Delivery,3,Pending
+2023-04-17,40563.61,PRD008,CUST8363,Anjali Singh,Electronics,Hyderabad,Debit Card,4,Pending
+2024-11-18,35020.65,PRD106,CUST4881,Priya Roy,Toys,Mumbai,Debit Card,1,Pending
+2024-01-20,35751.89,PRD141,CUST8389,Amit Mitra,Toys,Hyderabad,Cash on Delivery,1,Pending
+2024-11-19,45139.41,PRD136,CUST3044,Neha Sharma,Books,Delhi,Debit Card,5,Pending
+2023-07-25,3032.03,PRD117,CUST2408,Riya Singh,Toys,Delhi,Credit Card,1,Pending
+2024-02-11,17779.38,PRD100,CUST4683,Sourav Sharma,Electronics,Mumbai,UPI,3,Delivered
+2023-08-13,4019.14,PRD092,CUST6371,Riya Roy,Toys,Delhi,Cash on Delivery,3,Delivered
+2023-10-09,32355.65,PRD119,CUST2500,Vikram Patel,Home & Kitchen,Hyderabad,UPI,4,Pending
+2023-09-16,44842.71,PRD099,CUST6507,Arjun Patel,Home & Kitchen,Chennai,Cash on Delivery,2,Cancelled
+2024-12-02,33606.57,PRD005,CUST7525,Sneha Patel,Toys,Kolkata,Debit Card,1,Pending
+2023-07-11,27431.91,PRD140,CUST5100,Amit Mitra,Home & Kitchen,Hyderabad,UPI,5,Cancelled
+2023-01-30,20906.93,PRD014,CUST4375,Priya Roy,Electronics,Hyderabad,Cash on Delivery,2,Cancelled
+2024-10-21,16594.64,PRD045,CUST9955,Sourav Singh,Clothing,Kolkata,Cash on Delivery,4,Delivered
+2023-09-09,38002.09,PRD139,CUST6881,Riya Chatterjee,Home & Kitchen,Chennai,Credit Card,4,Pending
+2023-12-29,44898.63,PRD100,CUST8231,Priya Das,Toys,Hyderabad,Debit Card,4,Cancelled
+2023-02-23,13435.52,PRD024,CUST2998,Rahul Sen,Beauty,Mumbai,UPI,1,Cancelled
+2024-11-04,38972.99,PRD107,CUST7211,Arjun Verma,Home & Kitchen,Bangalore,Cash on Delivery,4,Pending
+2025-01-20,46463.95,PRD047,CUST7290,Amit Patel,Books,Bangalore,Debit Card,3,Pending
+2024-11-27,29318.37,PRD028,CUST7417,Neha Verma,Electronics,Hyderabad,Debit Card,1,Cancelled
+2024-02-29,12675.54,PRD030,CUST3970,Arjun Singh,Beauty,Mumbai,Cash on Delivery,4,Pending
+2024-03-15,18706.56,PRD099,CUST4766,Sourav Sharma,Books,Delhi,Cash on Delivery,2,Delivered
+2024-06-21,8723.38,PRD095,CUST7560,Vikram Singh,Beauty,Bangalore,UPI,3,Delivered
+2025-01-06,19999.83,PRD102,CUST5111,Sneha Sen,Books,Bangalore,UPI,5,Pending
+2024-04-10,44836.48,PRD043,CUST9053,Neha Sen,Toys,Chennai,UPI,1,Pending
+2024-10-16,21468.17,PRD136,CUST5060,Riya Sen,Books,Bangalore,Debit Card,5,Cancelled
+2023-09-26,6653.65,PRD086,CUST6162,Sourav Singh,Clothing,Hyderabad,Debit Card,1,Pending
+2023-08-23,40716.39,PRD106,CUST8383,Riya Sen,Electronics,Mumbai,UPI,5,Cancelled
+2023-03-12,14925.51,PRD117,CUST8345,Vikram Sharma,Beauty,Kolkata,Debit Card,5,Pending
+2023-09-19,7052.16,PRD114,CUST8601,Vikram Roy,Books,Bangalore,Debit Card,1,Delivered
+2023-09-07,21104.09,PRD063,CUST9863,Sneha Chatterjee,Home & Kitchen,Mumbai,Debit Card,2,Delivered
+2023-05-12,19658.42,PRD079,CUST7350,Arjun Patel,Home & Kitchen,Delhi,Credit Card,3,Cancelled
+2025-04-07,17953.57,PRD118,CUST8477,Sneha Roy,Clothing,Delhi,Cash on Delivery,3,Pending
+2023-10-25,25137.03,PRD058,CUST1233,Vikram Sen,Books,Delhi,Debit Card,2,Delivered
+2023-03-28,16094.48,PRD089,CUST4517,Vikram Sharma,Books,Mumbai,UPI,4,Cancelled
+2024-05-26,49558,PRD054,CUST2184,Arjun Patel,Clothing,Mumbai,UPI,1,Delivered
+2025-02-26,6800.96,PRD056,CUST6207,Sourav Patel,Beauty,Mumbai,Credit Card,2,Delivered
+2025-01-31,13356.06,PRD084,CUST3371,Arjun Patel,Books,Kolkata,Debit Card,2,Pending
+2024-07-01,4496.06,PRD083,CUST6394,Arjun Sen,Home & Kitchen,Mumbai,Cash on Delivery,1,Delivered
+2024-05-19,14016.38,PRD145,CUST3175,Vikram Patel,Electronics,Delhi,UPI,3,Pending
+2023-12-03,428.63,PRD011,CUST8582,Vikram Roy,Toys,Mumbai,Debit Card,5,Delivered
+2024-03-14,37015.86,PRD079,CUST3761,Vikram Sen,Clothing,Hyderabad,UPI,3,Cancelled
+2024-09-25,13538.15,PRD099,CUST4878,Amit Sharma,Books,Bangalore,Credit Card,4,Cancelled
+2024-04-03,4297.73,PRD137,CUST1972,Sourav Singh,Books,Kolkata,Credit Card,5,Cancelled
+2023-06-10,32985.94,PRD058,CUST8149,Arjun Chatterjee,Toys,Kolkata,Credit Card,1,Delivered
+2024-12-29,2412.77,PRD141,CUST3840,Sneha Sen,Books,Bangalore,Debit Card,1,Pending
+2025-04-08,6149.04,PRD004,CUST2830,Arjun Roy,Clothing,Hyderabad,UPI,3,Pending
+2023-07-23,34491.06,PRD149,CUST4665,Arjun Sen,Beauty,Delhi,Credit Card,4,Cancelled
+2025-03-23,39809.37,PRD123,CUST6950,Anjali Sen,Home & Kitchen,Delhi,Debit Card,4,Cancelled
+2024-11-13,49725.02,PRD022,CUST5311,Vikram Sharma,Books,Bangalore,Debit Card,1,Cancelled
+2024-04-22,19829.42,PRD134,CUST4121,Neha Sen,Beauty,Delhi,Debit Card,2,Cancelled
+2024-11-18,24488.68,PRD143,CUST4428,Rahul Roy,Home & Kitchen,Bangalore,UPI,1,Cancelled
+2025-02-13,10274.96,PRD052,CUST1988,Rahul Das,Electronics,Mumbai,Cash on Delivery,5,Delivered
+2023-06-05,37440.58,PRD052,CUST5101,Rahul Roy,Home & Kitchen,Kolkata,Debit Card,2,Cancelled
+2023-10-28,4104.7,PRD023,CUST8365,Priya Patel,Clothing,Delhi,Debit Card,5,Cancelled
+2023-03-23,16982.27,PRD114,CUST5591,Vikram Chatterjee,Beauty,Mumbai,UPI,2,Pending
+2024-07-13,1129.56,PRD043,CUST6524,Sneha Das,Electronics,Hyderabad,Debit Card,2,Cancelled
+2024-09-04,10549.25,PRD070,CUST4415,Sourav Chatterjee,Toys,Mumbai,Debit Card,5,Delivered
+2024-10-24,32652.85,PRD057,CUST6557,Neha Verma,Clothing,Bangalore,UPI,2,Pending
+2023-04-15,11949.87,PRD020,CUST7137,Sneha Das,Toys,Kolkata,Cash on Delivery,1,Pending
+2024-01-30,48472.78,PRD008,CUST5980,Anjali Roy,Electronics,Mumbai,UPI,1,Cancelled
+2023-06-22,24042.1,PRD107,CUST6858,Arjun Verma,Clothing,Chennai,Credit Card,2,Pending
+2023-04-30,27326.8,PRD073,CUST4316,Riya Sen,Books,Mumbai,UPI,2,Delivered
+2023-08-06,4674.14,PRD003,CUST8837,Sourav Verma,Books,Bangalore,UPI,3,Pending
+2023-04-18,29430.28,PRD104,CUST2963,Sourav Gupta,Electronics,Hyderabad,Credit Card,2,Cancelled
+2024-11-17,11504.85,PRD141,CUST7910,Priya Verma,Books,Bangalore,Cash on Delivery,1,Cancelled
+2024-07-04,46375.4,PRD125,CUST3902,Neha Sharma,Toys,Bangalore,Credit Card,2,Cancelled
+2023-03-09,33072.05,PRD091,CUST7392,Riya Sharma,Home & Kitchen,Mumbai,Debit Card,5,Delivered
+2024-03-27,19456.15,PRD146,CUST4083,Neha Patel,Home & Kitchen,Bangalore,Credit Card,4,Delivered
+2023-09-13,27844.43,PRD003,CUST5461,Neha Patel,Books,Mumbai,Credit Card,1,Cancelled
+2023-10-12,44657.34,PRD139,CUST1490,Sourav Das,Electronics,Chennai,UPI,3,Delivered
+2024-12-13,46932.12,PRD120,CUST1940,Neha Sen,Electronics,Mumbai,Credit Card,3,Cancelled
+2024-11-24,29880.33,PRD150,CUST7351,Neha Gupta,Books,Delhi,UPI,5,Delivered
+2024-01-07,38981,PRD036,CUST1784,Riya Chatterjee,Home & Kitchen,Mumbai,Credit Card,3,Delivered
+2023-10-04,49159.01,PRD124,CUST6991,Neha Patel,Clothing,Mumbai,Cash on Delivery,4,Pending
+2024-09-21,46119.27,PRD025,CUST9933,Sneha Sharma,Beauty,Bangalore,UPI,2,Delivered
+2023-07-10,31771,PRD020,CUST3950,Anjali Roy,Beauty,Chennai,Cash on Delivery,5,Pending
+2024-08-28,47231.02,PRD141,CUST9136,Rahul Singh,Toys,Kolkata,Cash on Delivery,1,Pending
+2023-09-25,44744.05,PRD023,CUST4682,Neha Singh,Books,Bangalore,UPI,1,Delivered
+2024-11-10,33091.78,PRD140,CUST4666,Anjali Roy,Electronics,Mumbai,Cash on Delivery,5,Cancelled
+2024-05-17,47391.42,PRD100,CUST7401,Riya Mitra,Books,Chennai,Debit Card,4,Delivered
+2025-02-08,16184.14,PRD030,CUST2482,Riya Sharma,Books,Delhi,UPI,2,Pending
+2025-02-21,42926.83,PRD026,CUST7215,Vikram Patel,Beauty,Mumbai,Credit Card,3,Cancelled
+2024-01-14,6847.83,PRD084,CUST1726,Sneha Patel,Electronics,Chennai,Debit Card,4,Cancelled
+2024-12-31,37081.15,PRD065,CUST5001,Rahul Chatterjee,Electronics,Hyderabad,Credit Card,5,Pending
+2024-02-13,26985.54,PRD058,CUST5992,Priya Verma,Electronics,Hyderabad,UPI,3,Delivered
+2023-04-14,45975.63,PRD141,CUST5434,Sneha Chatterjee,Beauty,Hyderabad,Cash on Delivery,4,Delivered
+2024-11-23,46192.59,PRD060,CUST9976,Amit Verma,Books,Mumbai,UPI,5,Pending
+2025-05-21,39103.97,PRD120,CUST3267,Anjali Verma,Clothing,Hyderabad,Credit Card,3,Pending
+2023-03-18,11248.95,PRD117,CUST2759,Sourav Sharma,Clothing,Delhi,Cash on Delivery,2,Pending
+2025-04-02,41301.65,PRD052,CUST1005,Riya Das,Home & Kitchen,Hyderabad,UPI,5,Delivered
+2025-01-01,44994.49,PRD111,CUST9734,Priya Verma,Books,Kolkata,Cash on Delivery,5,Cancelled
+2024-12-25,7232.27,PRD018,CUST3230,Rahul Gupta,Toys,Kolkata,Credit Card,5,Delivered
+2023-05-04,2127.95,PRD037,CUST3448,Riya Das,Books,Bangalore,Credit Card,1,Cancelled
+2023-10-12,35584.02,PRD032,CUST8695,Arjun Singh,Books,Delhi,Cash on Delivery,1,Delivered
+2025-03-17,34165.15,PRD079,CUST1551,Riya Sen,Clothing,Hyderabad,UPI,5,Pending
+2024-01-03,3330.65,PRD070,CUST8740,Riya Mitra,Electronics,Kolkata,Debit Card,3,Pending
+2023-06-08,43286.59,PRD067,CUST4307,Riya Sharma,Toys,Kolkata,Debit Card,2,Delivered
+2023-02-21,5793.78,PRD060,CUST4030,Sneha Gupta,Clothing,Chennai,Cash on Delivery,2,Pending
+2024-08-18,6620.38,PRD049,CUST1017,Neha Sharma,Electronics,Delhi,UPI,1,Delivered
+2024-11-20,8762.93,PRD068,CUST2256,Riya Singh,Home & Kitchen,Bangalore,Debit Card,3,Delivered
+2023-11-20,6099.52,PRD131,CUST3168,Amit Verma,Books,Kolkata,UPI,2,Pending
+2025-04-28,31300.6,PRD127,CUST1388,Sneha Das,Beauty,Hyderabad,Cash on Delivery,5,Cancelled
+2024-12-21,48333.48,PRD134,CUST1504,Neha Patel,Toys,Chennai,Cash on Delivery,5,Cancelled
+2024-05-21,31028.46,PRD083,CUST5414,Rahul Sharma,Electronics,Chennai,Credit Card,1,Delivered
+2025-04-18,30839.92,PRD081,CUST5949,Amit Patel,Beauty,Kolkata,Debit Card,2,Delivered
+2023-01-02,6958.18,PRD024,CUST6583,Priya Chatterjee,Toys,Mumbai,Debit Card,3,Pending
+2024-10-09,29981.69,PRD099,CUST2862,Riya Sharma,Home & Kitchen,Bangalore,Debit Card,2,Cancelled
+2024-08-19,36613.32,PRD039,CUST4842,Sneha Das,Clothing,Hyderabad,Credit Card,1,Pending
+2023-12-16,24984.39,PRD112,CUST1768,Neha Mitra,Beauty,Kolkata,Debit Card,1,Delivered
+2023-05-31,9854.92,PRD086,CUST9994,Amit Sen,Beauty,Bangalore,Cash on Delivery,5,Cancelled
+2024-09-15,34501.68,PRD014,CUST4746,Sneha Mitra,Electronics,Bangalore,UPI,5,Pending
+2024-09-30,44017.08,PRD146,CUST8516,Riya Verma,Books,Chennai,UPI,2,Pending
+2024-12-19,21759.53,PRD118,CUST3817,Vikram Mitra,Clothing,Chennai,Credit Card,3,Cancelled
+2024-10-20,29124.36,PRD044,CUST3933,Vikram Chatterjee,Clothing,Mumbai,UPI,4,Delivered
+2024-08-19,39695.86,PRD104,CUST4464,Vikram Sen,Toys,Delhi,Credit Card,2,Cancelled
+2023-03-31,45854.66,PRD135,CUST3845,Arjun Sharma,Toys,Mumbai,Debit Card,3,Cancelled
+2023-12-15,45776.8,PRD133,CUST3750,Priya Roy,Electronics,Bangalore,Debit Card,1,Delivered
+2023-07-31,34693.97,PRD100,CUST2466,Neha Chatterjee,Toys,Mumbai,UPI,3,Cancelled
+2023-03-09,19371.24,PRD068,CUST8294,Anjali Verma,Beauty,Kolkata,Debit Card,5,Pending
+2023-12-26,11538.07,PRD024,CUST8445,Sneha Singh,Clothing,Hyderabad,UPI,2,Delivered
+2023-05-29,28293.5,PRD055,CUST7768,Rahul Sen,Electronics,Bangalore,Debit Card,2,Pending
+2025-01-21,3255.77,PRD101,CUST3696,Arjun Singh,Clothing,Bangalore,Cash on Delivery,1,Pending
+2025-02-04,20662.98,PRD090,CUST1079,Sourav Verma,Beauty,Delhi,Debit Card,1,Delivered
+2023-03-25,21339.68,PRD127,CUST2771,Amit Patel,Beauty,Kolkata,Credit Card,2,Cancelled
+2023-01-16,5822.98,PRD088,CUST9165,Riya Verma,Home & Kitchen,Bangalore,Credit Card,2,Pending
+2023-10-05,22043.67,PRD089,CUST4693,Vikram Singh,Books,Hyderabad,Cash on Delivery,4,Delivered
+2023-08-18,42012.67,PRD070,CUST8928,Riya Singh,Beauty,Delhi,Cash on Delivery,2,Pending
+2024-06-18,36445.22,PRD023,CUST4673,Riya Chatterjee,Beauty,Chennai,Cash on Delivery,3,Pending
+2025-03-23,11892.31,PRD027,CUST4265,Arjun Patel,Books,Kolkata,Credit Card,1,Pending
+2024-04-16,6536.39,PRD075,CUST1509,Amit Das,Electronics,Mumbai,Credit Card,1,Delivered
+2025-06-22,28377.48,PRD079,CUST7234,Sourav Mitra,Electronics,Mumbai,UPI,1,Pending
+2023-02-19,9855.75,PRD110,CUST7190,Amit Verma,Books,Kolkata,Credit Card,2,Delivered
+2023-02-09,5884.66,PRD039,CUST5848,Vikram Das,Home & Kitchen,Hyderabad,Credit Card,5,Cancelled
+2025-01-04,12906.35,PRD125,CUST6598,Sourav Roy,Beauty,Bangalore,UPI,3,Cancelled
+2023-12-13,28487.6,PRD002,CUST9651,Neha Singh,Toys,Bangalore,Debit Card,5,Cancelled
+2025-03-05,36605.05,PRD128,CUST9490,Arjun Sharma,Electronics,Kolkata,Debit Card,3,Cancelled
+2023-03-10,45375.39,PRD051,CUST2100,Anjali Patel,Clothing,Bangalore,UPI,3,Cancelled
+2023-02-19,13018.78,PRD138,CUST7081,Rahul Das,Books,Delhi,Debit Card,5,Pending
+2024-07-15,38297.86,PRD026,CUST8221,Anjali Sharma,Electronics,Bangalore,Debit Card,5,Delivered
+2024-04-23,17405.83,PRD037,CUST3187,Anjali Das,Electronics,Chennai,Debit Card,5,Delivered
+2025-02-15,26958.48,PRD058,CUST9995,Riya Verma,Toys,Mumbai,Cash on Delivery,3,Delivered
+2023-01-03,10469.7,PRD015,CUST3945,Sneha Chatterjee,Clothing,Delhi,Debit Card,4,Cancelled
+2024-03-22,36262.11,PRD009,CUST4112,Amit Verma,Toys,Hyderabad,Debit Card,4,Pending
+2024-05-08,23793.1,PRD020,CUST7200,Sneha Patel,Beauty,Bangalore,Debit Card,5,Cancelled
+2023-09-03,11048.45,PRD039,CUST3031,Anjali Chatterjee,Clothing,Delhi,Cash on Delivery,3,Delivered
+2023-02-15,1064.29,PRD088,CUST5952,Amit Roy,Toys,Mumbai,Cash on Delivery,2,Delivered
+2023-09-02,5852.58,PRD081,CUST2476,Sneha Verma,Home & Kitchen,Mumbai,Cash on Delivery,1,Cancelled
+2025-06-20,30406.15,PRD140,CUST2704,Rahul Roy,Electronics,Bangalore,Debit Card,1,Delivered
+2024-03-17,41530.85,PRD065,CUST3105,Priya Singh,Home & Kitchen,Hyderabad,UPI,5,Delivered
+2024-10-24,49308.39,PRD042,CUST1534,Vikram Gupta,Electronics,Bangalore,Cash on Delivery,3,Delivered
+2023-07-15,46486.41,PRD069,CUST9660,Sneha Verma,Clothing,Kolkata,UPI,3,Cancelled
+2024-10-31,23291.83,PRD135,CUST7967,Arjun Chatterjee,Home & Kitchen,Chennai,Debit Card,5,Pending
+2024-05-21,24506.85,PRD055,CUST3041,Sourav Gupta,Home & Kitchen,Hyderabad,UPI,2,Pending
+2023-08-26,3683.98,PRD142,CUST9892,Neha Sharma,Toys,Hyderabad,UPI,2,Pending
+2023-06-02,20264.15,PRD150,CUST9027,Amit Chatterjee,Home & Kitchen,Kolkata,Credit Card,1,Cancelled
+2025-03-06,34541.7,PRD023,CUST7793,Vikram Sharma,Home & Kitchen,Hyderabad,Debit Card,1,Delivered
+2024-03-10,11927.78,PRD087,CUST5734,Neha Roy,Home & Kitchen,Bangalore,Cash on Delivery,5,Delivered
+2024-02-10,48664.79,PRD118,CUST9046,Rahul Sharma,Beauty,Mumbai,Debit Card,1,Cancelled
+2023-04-16,1959.99,PRD130,CUST2382,Vikram Patel,Home & Kitchen,Kolkata,Debit Card,4,Cancelled
+2023-12-23,47222.25,PRD088,CUST1044,Arjun Chatterjee,Home & Kitchen,Bangalore,Credit Card,4,Pending
+2023-07-07,48623.95,PRD078,CUST5512,Priya Chatterjee,Beauty,Bangalore,Cash on Delivery,3,Pending
+2024-03-25,28410.69,PRD041,CUST1415,Amit Singh,Toys,Delhi,Debit Card,5,Cancelled
+2024-01-01,31952.48,PRD065,CUST8149,Amit Mitra,Books,Chennai,Credit Card,4,Pending
+2024-11-07,49004.78,PRD043,CUST1598,Neha Sharma,Books,Bangalore,Cash on Delivery,5,Pending
+2024-11-06,8947.17,PRD080,CUST1596,Rahul Sharma,Home & Kitchen,Kolkata,Debit Card,3,Pending
+2024-04-30,8315.42,PRD032,CUST7666,Vikram Verma,Beauty,Kolkata,Cash on Delivery,4,Delivered
+2023-06-09,35611.07,PRD076,CUST6851,Priya Sharma,Books,Mumbai,Cash on Delivery,4,Delivered
+2024-10-16,16198.32,PRD048,CUST1559,Amit Sen,Toys,Mumbai,UPI,1,Delivered
+2023-05-16,41970.49,PRD134,CUST2431,Sneha Singh,Books,Hyderabad,UPI,1,Delivered
+2024-06-24,24259.09,PRD010,CUST3056,Anjali Verma,Home & Kitchen,Mumbai,UPI,2,Delivered
+2024-03-05,29278.28,PRD060,CUST3637,Sneha Patel,Beauty,Chennai,Credit Card,3,Delivered
+2024-07-28,47303.97,PRD014,CUST6192,Sneha Singh,Books,Chennai,Cash on Delivery,4,Pending
+2024-07-24,8418.74,PRD044,CUST7393,Riya Sen,Books,Delhi,Debit Card,1,Cancelled
+2023-02-27,16731.03,PRD074,CUST5497,Amit Chatterjee,Home & Kitchen,Bangalore,Credit Card,2,Cancelled
+2023-07-26,837.84,PRD050,CUST2032,Amit Gupta,Home & Kitchen,Bangalore,UPI,1,Delivered
+2024-03-20,7287.52,PRD090,CUST6502,Anjali Chatterjee,Toys,Bangalore,UPI,4,Cancelled
+2023-02-07,23327.13,PRD147,CUST9977,Vikram Sharma,Books,Chennai,UPI,5,Delivered
+2024-07-17,24884.88,PRD034,CUST5253,Rahul Das,Electronics,Mumbai,Debit Card,4,Pending
+2025-01-23,16749.97,PRD092,CUST3936,Arjun Verma,Beauty,Kolkata,Credit Card,3,Cancelled
+2025-04-14,4241.58,PRD012,CUST6665,Priya Verma,Home & Kitchen,Chennai,Credit Card,5,Pending
+2025-01-14,30640.85,PRD101,CUST1454,Sourav Roy,Toys,Bangalore,Credit Card,5,Pending
+2025-01-17,42633.73,PRD063,CUST6535,Amit Sharma,Toys,Bangalore,Credit Card,1,Delivered
+2025-01-23,1752.59,PRD087,CUST1028,Sneha Sharma,Books,Chennai,UPI,3,Delivered
+2023-06-22,3273.56,PRD057,CUST6520,Rahul Mitra,Books,Hyderabad,Cash on Delivery,3,Pending
+2023-10-10,9603.37,PRD057,CUST1052,Arjun Sen,Beauty,Mumbai,Credit Card,1,Delivered
+2025-02-24,28399.73,PRD091,CUST9777,Riya Verma,Beauty,Bangalore,Credit Card,2,Delivered
+2024-11-03,25991.42,PRD070,CUST7160,Arjun Gupta,Home & Kitchen,Bangalore,UPI,3,Delivered
+2024-07-23,11462.61,PRD016,CUST3202,Sneha Roy,Home & Kitchen,Kolkata,UPI,4,Cancelled
+2024-09-27,14412.47,PRD115,CUST2276,Sourav Singh,Home & Kitchen,Hyderabad,Cash on Delivery,3,Pending
+2023-10-23,1415.05,PRD061,CUST7995,Priya Das,Electronics,Kolkata,Debit Card,4,Cancelled
+2024-12-10,40386.03,PRD079,CUST4269,Priya Patel,Clothing,Chennai,Cash on Delivery,4,Delivered
+2025-02-17,14736.81,PRD081,CUST5943,Priya Sen,Home & Kitchen,Bangalore,Debit Card,4,Delivered
+2024-05-02,15615.62,PRD137,CUST4657,Sourav Sharma,Electronics,Bangalore,Debit Card,3,Pending
+2023-04-02,33086.02,PRD066,CUST1282,Sourav Gupta,Home & Kitchen,Chennai,UPI,4,Delivered
+2024-04-20,13195.87,PRD138,CUST7417,Rahul Patel,Toys,Hyderabad,Debit Card,1,Delivered
+2023-07-16,43986.77,PRD103,CUST8029,Neha Das,Books,Delhi,Credit Card,4,Pending
+2024-03-30,31398.66,PRD096,CUST2903,Priya Verma,Beauty,Bangalore,UPI,4,Delivered
+2023-08-30,34602.46,PRD047,CUST8554,Sneha Singh,Toys,Kolkata,Cash on Delivery,2,Cancelled
+2023-09-19,38385.21,PRD106,CUST5760,Rahul Patel,Home & Kitchen,Kolkata,Cash on Delivery,5,Cancelled
+2024-02-16,23291.66,PRD102,CUST8262,Vikram Chatterjee,Clothing,Chennai,Cash on Delivery,3,Delivered
+2024-04-08,49632.23,PRD058,CUST6007,Sourav Roy,Books,Kolkata,Cash on Delivery,4,Cancelled
+2024-06-28,16157.37,PRD133,CUST5557,Neha Mitra,Beauty,Kolkata,Debit Card,2,Pending
+2024-12-13,41079.82,PRD082,CUST5204,Vikram Roy,Electronics,Delhi,Credit Card,4,Pending
+2023-05-28,10516.27,PRD131,CUST1380,Amit Mitra,Clothing,Delhi,Credit Card,3,Cancelled
+2024-04-05,32182.19,PRD126,CUST8830,Anjali Verma,Books,Bangalore,Credit Card,3,Delivered
+2024-07-15,33534.22,PRD008,CUST8966,Sourav Das,Books,Mumbai,Debit Card,5,Delivered
+2024-09-06,4523.76,PRD108,CUST7333,Rahul Chatterjee,Home & Kitchen,Delhi,Cash on Delivery,1,Delivered
+2023-02-16,42930.59,PRD136,CUST5609,Priya Patel,Clothing,Hyderabad,Credit Card,3,Delivered
+2024-12-04,20896.31,PRD054,CUST9900,Sneha Singh,Beauty,Delhi,Cash on Delivery,5,Pending
+2024-11-21,40052.16,PRD006,CUST3325,Riya Sharma,Clothing,Delhi,Credit Card,5,Cancelled
+2024-04-07,9181.33,PRD004,CUST2394,Riya Singh,Clothing,Chennai,Cash on Delivery,1,Delivered
+2023-04-05,31931.25,PRD015,CUST2868,Priya Roy,Books,Mumbai,Credit Card,1,Delivered
+2025-05-04,13621.83,PRD088,CUST1668,Arjun Roy,Beauty,Chennai,UPI,1,Pending
+2025-05-16,7295.5,PRD039,CUST5341,Neha Sharma,Toys,Delhi,Debit Card,4,Cancelled
+2023-06-07,16718.21,PRD020,CUST7686,Vikram Verma,Beauty,Bangalore,Credit Card,2,Delivered
+2024-10-01,13671.51,PRD032,CUST3251,Vikram Chatterjee,Beauty,Mumbai,Debit Card,1,Cancelled
+2023-10-06,30479.9,PRD068,CUST1344,Priya Das,Beauty,Delhi,Cash on Delivery,4,Pending
+2024-03-16,40615.79,PRD104,CUST3977,Neha Singh,Home & Kitchen,Delhi,Credit Card,1,Pending
+2025-01-31,31973.09,PRD026,CUST4171,Priya Chatterjee,Toys,Chennai,Debit Card,1,Pending
+2025-04-19,43936.66,PRD122,CUST9616,Sneha Mitra,Books,Mumbai,Cash on Delivery,1,Delivered
+2023-09-24,33644.2,PRD013,CUST2324,Sneha Gupta,Books,Kolkata,Cash on Delivery,4,Delivered
+2023-09-06,43012.15,PRD138,CUST1924,Sourav Sen,Books,Chennai,UPI,2,Cancelled
+2025-01-21,6201.48,PRD086,CUST8593,Arjun Singh,Clothing,Kolkata,UPI,1,Delivered
+2024-03-04,28264.17,PRD092,CUST1113,Sourav Gupta,Toys,Bangalore,Credit Card,1,Pending
+2023-11-28,48050.64,PRD027,CUST6910,Amit Patel,Beauty,Mumbai,Debit Card,1,Pending
+2024-01-15,21229.88,PRD092,CUST2296,Vikram Singh,Toys,Mumbai,Cash on Delivery,1,Pending
+2024-01-05,43636.62,PRD047,CUST1753,Sourav Mitra,Beauty,Kolkata,Credit Card,5,Cancelled
+2025-04-08,29769.82,PRD147,CUST4437,Arjun Chatterjee,Clothing,Mumbai,Cash on Delivery,4,Cancelled
+2025-04-11,5895.33,PRD027,CUST6509,Amit Singh,Clothing,Hyderabad,Cash on Delivery,4,Delivered
+2024-05-16,15944.7,PRD135,CUST4791,Amit Patel,Beauty,Chennai,Credit Card,2,Delivered
+2023-10-12,16017.83,PRD003,CUST6694,Vikram Mitra,Toys,Delhi,Debit Card,1,Delivered
+2024-02-03,31708.05,PRD047,CUST2178,Amit Sharma,Electronics,Bangalore,UPI,4,Pending
+2025-06-29,28233.03,PRD096,CUST9869,Neha Gupta,Toys,Delhi,Cash on Delivery,3,Cancelled
+2024-06-09,7956.18,PRD132,CUST1545,Anjali Verma,Home & Kitchen,Chennai,UPI,1,Cancelled
+2024-04-19,45838.56,PRD091,CUST8549,Neha Singh,Toys,Chennai,Cash on Delivery,2,Delivered
+2025-01-16,23186.3,PRD032,CUST5157,Vikram Das,Clothing,Mumbai,Debit Card,2,Pending
+2023-11-02,14144.91,PRD072,CUST6805,Riya Mitra,Toys,Chennai,Cash on Delivery,2,Cancelled
+2023-07-10,1392.93,PRD056,CUST9807,Rahul Roy,Toys,Bangalore,Cash on Delivery,1,Pending
+2023-04-14,7476.26,PRD013,CUST5667,Riya Singh,Electronics,Bangalore,UPI,3,Cancelled
+2024-09-04,38639.18,PRD122,CUST8185,Rahul Das,Books,Delhi,Cash on Delivery,3,Cancelled
+2025-03-05,36369.79,PRD003,CUST8039,Sneha Verma,Books,Bangalore,Credit Card,5,Pending
+2024-05-26,7113.75,PRD082,CUST5624,Vikram Gupta,Toys,Bangalore,Cash on Delivery,2,Delivered
+2025-06-30,25405.9,PRD070,CUST1153,Amit Roy,Electronics,Kolkata,UPI,2,Delivered
+2023-06-13,29940.39,PRD122,CUST7875,Amit Singh,Electronics,Chennai,Debit Card,5,Cancelled
+2024-12-19,21925.06,PRD029,CUST3413,Riya Patel,Toys,Kolkata,Cash on Delivery,5,Pending
+2024-02-01,38328.11,PRD027,CUST5797,Arjun Singh,Electronics,Bangalore,Debit Card,5,Delivered
+2025-06-24,27611.27,PRD036,CUST8847,Amit Mitra,Books,Delhi,Cash on Delivery,3,Delivered
+2025-01-13,28657.28,PRD062,CUST6201,Neha Singh,Clothing,Delhi,Debit Card,3,Pending
+2023-12-02,30472.28,PRD105,CUST9686,Neha Gupta,Electronics,Bangalore,Cash on Delivery,3,Cancelled
+2023-04-01,29332.65,PRD073,CUST6345,Sneha Gupta,Books,Bangalore,UPI,3,Pending
+2024-08-16,26042.83,PRD052,CUST6295,Neha Mitra,Electronics,Mumbai,UPI,3,Pending
+2023-07-06,27525.83,PRD058,CUST8285,Sneha Mitra,Toys,Bangalore,Debit Card,1,Delivered
+2024-11-25,3319.51,PRD014,CUST2659,Amit Gupta,Home & Kitchen,Kolkata,UPI,2,Cancelled
+2024-04-19,18164.79,PRD076,CUST7125,Anjali Mitra,Beauty,Chennai,Cash on Delivery,1,Delivered
+2024-03-12,40120.52,PRD127,CUST6315,Sneha Sharma,Toys,Bangalore,Debit Card,4,Delivered
+2024-04-08,27884.69,PRD089,CUST4197,Rahul Roy,Clothing,Delhi,Cash on Delivery,1,Cancelled
+2023-10-01,37915.5,PRD048,CUST4915,Neha Sen,Home & Kitchen,Hyderabad,Debit Card,3,Pending
+2023-03-05,37613.49,PRD007,CUST7836,Amit Singh,Home & Kitchen,Kolkata,Cash on Delivery,4,Cancelled
+2023-07-05,10284.5,PRD131,CUST7140,Anjali Verma,Home & Kitchen,Mumbai,UPI,3,Delivered
+2023-05-23,12029.32,PRD098,CUST6065,Priya Verma,Books,Mumbai,Credit Card,1,Pending
+2024-05-28,32856.85,PRD054,CUST2090,Sourav Das,Books,Kolkata,Cash on Delivery,4,Delivered
+2024-08-19,14291.89,PRD138,CUST5448,Sourav Sharma,Toys,Delhi,UPI,4,Cancelled
+2023-08-01,42464,PRD039,CUST8165,Vikram Roy,Beauty,Delhi,UPI,2,Pending
+2023-11-30,5873.03,PRD023,CUST5528,Neha Das,Clothing,Chennai,Debit Card,3,Delivered
+2023-11-12,29786.63,PRD015,CUST1909,Sourav Patel,Toys,Hyderabad,Cash on Delivery,1,Delivered
+2024-04-20,39561.7,PRD036,CUST6754,Sneha Das,Electronics,Delhi,Cash on Delivery,5,Cancelled
+2023-05-09,21358,PRD063,CUST6222,Anjali Patel,Books,Bangalore,UPI,3,Delivered
+2024-02-02,8142.87,PRD010,CUST7766,Riya Sharma,Beauty,Hyderabad,Credit Card,5,Cancelled
+2024-07-16,15691.59,PRD006,CUST3606,Sourav Sen,Beauty,Mumbai,Debit Card,1,Pending
+2024-08-10,32323.46,PRD072,CUST2343,Rahul Gupta,Books,Bangalore,Cash on Delivery,1,Delivered
+2024-10-30,46934.77,PRD078,CUST1227,Riya Chatterjee,Home & Kitchen,Bangalore,Cash on Delivery,2,Delivered
+2023-03-09,7266.97,PRD034,CUST2704,Amit Gupta,Books,Delhi,UPI,2,Cancelled
+2023-12-12,29573.41,PRD022,CUST1508,Rahul Chatterjee,Books,Bangalore,Cash on Delivery,1,Cancelled
+2024-07-19,22156.98,PRD090,CUST5878,Vikram Chatterjee,Books,Mumbai,Credit Card,4,Pending
+2023-09-05,8117.33,PRD020,CUST9067,Rahul Mitra,Clothing,Hyderabad,Cash on Delivery,2,Pending
+2023-06-21,33335.5,PRD079,CUST8060,Sourav Chatterjee,Clothing,Hyderabad,Cash on Delivery,4,Delivered
+2023-07-30,24722.18,PRD059,CUST4274,Rahul Das,Toys,Kolkata,Debit Card,2,Cancelled
+2024-10-06,28574.3,PRD141,CUST6485,Riya Sharma,Home & Kitchen,Delhi,Credit Card,5,Delivered
+2025-01-12,47752.99,PRD017,CUST7514,Sourav Das,Clothing,Hyderabad,Debit Card,4,Pending
+2025-02-27,42086.99,PRD009,CUST1261,Vikram Sen,Beauty,Bangalore,UPI,3,Cancelled
+2023-06-01,48402.11,PRD132,CUST6957,Priya Singh,Electronics,Delhi,Cash on Delivery,2,Pending
+2023-06-12,44687.05,PRD067,CUST5898,Riya Sharma,Electronics,Delhi,Cash on Delivery,4,Pending
+2023-02-28,33541.78,PRD008,CUST1300,Neha Sen,Beauty,Mumbai,UPI,3,Delivered
+2024-10-31,40915.78,PRD038,CUST9576,Sneha Verma,Electronics,Mumbai,Debit Card,2,Delivered
+2023-06-02,14190.75,PRD111,CUST2738,Arjun Mitra,Toys,Bangalore,Credit Card,3,Delivered
+2023-02-18,2870.5,PRD014,CUST5974,Amit Roy,Books,Kolkata,Cash on Delivery,3,Delivered
+2024-11-15,5157.9,PRD018,CUST6774,Arjun Patel,Beauty,Bangalore,Credit Card,5,Delivered
+2025-03-15,38219.86,PRD102,CUST6592,Arjun Verma,Home & Kitchen,Delhi,Credit Card,3,Cancelled
+2023-10-10,45932.29,PRD043,CUST6249,Arjun Patel,Beauty,Delhi,Credit Card,2,Delivered
+2024-10-20,35289.35,PRD144,CUST6741,Priya Verma,Books,Hyderabad,UPI,1,Pending
+2024-09-17,5103.48,PRD073,CUST1852,Sourav Sen,Beauty,Kolkata,Cash on Delivery,1,Cancelled
+2024-02-29,46585.17,PRD065,CUST5254,Sourav Roy,Home & Kitchen,Delhi,Credit Card,2,Delivered
+2023-12-30,33105.55,PRD004,CUST6120,Anjali Sharma,Toys,Mumbai,Cash on Delivery,4,Pending
+2023-12-30,25310.56,PRD062,CUST1699,Vikram Sen,Electronics,Kolkata,Debit Card,4,Cancelled
+2024-08-29,13232.63,PRD063,CUST1323,Neha Verma,Electronics,Kolkata,Debit Card,5,Delivered
+2025-03-26,15110.34,PRD138,CUST3058,Priya Patel,Home & Kitchen,Kolkata,Debit Card,2,Pending
+2025-06-11,4346.16,PRD110,CUST5089,Riya Sharma,Electronics,Kolkata,Credit Card,3,Delivered
+2023-07-10,14724.95,PRD015,CUST3220,Arjun Sharma,Clothing,Chennai,Credit Card,1,Delivered
+2023-09-19,37815.8,PRD067,CUST2710,Arjun Sen,Toys,Delhi,Debit Card,1,Pending
+2025-01-31,9779.96,PRD035,CUST8096,Priya Gupta,Toys,Kolkata,Credit Card,4,Cancelled
+2023-08-20,19009.33,PRD108,CUST7939,Neha Mitra,Books,Delhi,Credit Card,2,Pending
+2025-06-16,34450.04,PRD129,CUST6036,Amit Roy,Electronics,Delhi,Cash on Delivery,1,Pending
+2023-06-29,30810.4,PRD015,CUST5553,Arjun Roy,Beauty,Chennai,Credit Card,3,Cancelled
+2024-04-02,4268.05,PRD028,CUST1757,Rahul Roy,Beauty,Kolkata,Credit Card,1,Pending
+2024-06-15,15481.74,PRD147,CUST8821,Vikram Verma,Beauty,Hyderabad,Cash on Delivery,2,Pending
+2025-05-05,34553.77,PRD023,CUST6705,Anjali Sharma,Electronics,Hyderabad,Debit Card,2,Cancelled
+2024-10-31,6617.44,PRD124,CUST9443,Amit Mitra,Electronics,Delhi,Cash on Delivery,4,Cancelled
+2023-03-01,32690.98,PRD101,CUST7356,Anjali Chatterjee,Home & Kitchen,Hyderabad,UPI,1,Cancelled
+2025-01-20,38298.73,PRD145,CUST6864,Anjali Sharma,Home & Kitchen,Bangalore,UPI,3,Delivered
+2023-05-07,8331.52,PRD123,CUST7617,Rahul Sen,Books,Hyderabad,Debit Card,5,Cancelled
+2024-01-26,7518.77,PRD142,CUST1004,Amit Roy,Beauty,Kolkata,Cash on Delivery,2,Pending
+2023-09-23,13264.37,PRD113,CUST3035,Riya Gupta,Home & Kitchen,Hyderabad,UPI,1,Cancelled
+2024-12-13,30704.55,PRD062,CUST6230,Sourav Sharma,Home & Kitchen,Delhi,Credit Card,1,Cancelled
+2024-03-14,28607.96,PRD096,CUST6033,Rahul Patel,Toys,Chennai,Cash on Delivery,1,Pending
+2024-10-11,49379.38,PRD005,CUST9234,Anjali Chatterjee,Home & Kitchen,Delhi,Credit Card,2,Cancelled
+2024-04-19,26600.64,PRD056,CUST5466,Arjun Das,Electronics,Hyderabad,Credit Card,5,Delivered
+2023-09-24,18990.76,PRD005,CUST5238,Rahul Das,Home & Kitchen,Bangalore,Credit Card,1,Pending
+2024-09-14,8694.87,PRD138,CUST8533,Anjali Singh,Toys,Chennai,Credit Card,1,Cancelled
+2023-01-09,41503.87,PRD066,CUST6121,Priya Mitra,Books,Bangalore,Credit Card,3,Cancelled
+2023-08-29,13433.55,PRD029,CUST2377,Sneha Das,Electronics,Kolkata,Debit Card,2,Cancelled
+2024-06-08,43072.06,PRD032,CUST6870,Rahul Gupta,Toys,Bangalore,Credit Card,3,Cancelled
+2025-03-26,28832.55,PRD073,CUST6774,Sourav Gupta,Toys,Kolkata,Cash on Delivery,3,Cancelled
+2024-09-20,6881,PRD024,CUST7993,Arjun Mitra,Beauty,Bangalore,Credit Card,5,Delivered
+2025-06-04,6376.82,PRD090,CUST3103,Sneha Das,Electronics,Delhi,UPI,2,Cancelled
+2024-10-11,15014.85,PRD100,CUST6519,Neha Mitra,Home & Kitchen,Hyderabad,Cash on Delivery,4,Cancelled
+2024-11-19,6527.42,PRD033,CUST4145,Sneha Patel,Electronics,Delhi,Debit Card,5,Cancelled
+2025-04-07,8189.74,PRD041,CUST8169,Sneha Sharma,Beauty,Hyderabad,Cash on Delivery,2,Cancelled
+2024-09-04,31799.5,PRD025,CUST5383,Sourav Patel,Home & Kitchen,Kolkata,Credit Card,3,Cancelled
+2024-06-30,1894.58,PRD071,CUST5024,Vikram Patel,Toys,Chennai,Credit Card,1,Pending
+2023-01-11,46728.89,PRD114,CUST9576,Anjali Sharma,Beauty,Delhi,Credit Card,3,Pending
+2024-05-10,45135.16,PRD100,CUST5722,Riya Mitra,Clothing,Mumbai,Debit Card,3,Cancelled
+2023-11-20,15425.28,PRD031,CUST1755,Neha Das,Clothing,Delhi,Credit Card,2,Pending
+2025-05-06,3245.98,PRD104,CUST3886,Sourav Singh,Books,Bangalore,UPI,2,Delivered
+2024-05-15,21719.26,PRD097,CUST1905,Sneha Sharma,Toys,Hyderabad,Credit Card,2,Pending
+2025-05-09,17072.57,PRD082,CUST9611,Arjun Sen,Clothing,Delhi,Cash on Delivery,5,Delivered
+2024-08-17,36355.35,PRD056,CUST7322,Neha Sharma,Beauty,Delhi,Debit Card,2,Delivered
+2024-03-22,47295.81,PRD008,CUST3678,Amit Singh,Beauty,Bangalore,Debit Card,5,Pending
+2024-06-30,22516.47,PRD096,CUST6630,Rahul Sen,Beauty,Mumbai,Debit Card,1,Pending
+2024-06-03,21471.64,PRD122,CUST2872,Rahul Verma,Books,Chennai,Cash on Delivery,1,Cancelled
+2024-06-26,21188.2,PRD123,CUST3358,Priya Singh,Books,Mumbai,Credit Card,2,Cancelled
+2023-06-23,16687.26,PRD053,CUST7180,Neha Verma,Toys,Bangalore,UPI,5,Delivered
+2023-10-12,5542.34,PRD091,CUST4636,Riya Verma,Home & Kitchen,Bangalore,Credit Card,2,Pending
+2023-11-02,2869.99,PRD011,CUST7362,Priya Singh,Home & Kitchen,Mumbai,Cash on Delivery,4,Pending
+2025-01-14,42491.76,PRD029,CUST5154,Sneha Gupta,Beauty,Bangalore,Debit Card,4,Delivered
+2024-10-31,9554.13,PRD081,CUST7579,Anjali Roy,Clothing,Chennai,Debit Card,5,Delivered
+2024-07-29,42689.49,PRD018,CUST4654,Anjali Roy,Home & Kitchen,Chennai,Debit Card,5,Delivered
+2024-02-04,27192.38,PRD091,CUST3344,Amit Sen,Electronics,Hyderabad,UPI,4,Cancelled
+2025-06-20,42854.76,PRD006,CUST6057,Priya Chatterjee,Toys,Kolkata,Credit Card,4,Pending
+2024-04-28,48798.53,PRD113,CUST4808,Amit Singh,Toys,Mumbai,Cash on Delivery,3,Delivered
+2023-05-05,30990.34,PRD101,CUST1540,Amit Das,Home & Kitchen,Kolkata,Debit Card,1,Delivered
+2023-02-26,2140.01,PRD035,CUST5050,Anjali Patel,Books,Bangalore,Credit Card,1,Delivered
+2023-03-20,17186,PRD107,CUST2320,Riya Sen,Toys,Hyderabad,Debit Card,1,Cancelled
+2023-06-09,21139.65,PRD005,CUST5194,Sneha Verma,Toys,Bangalore,Credit Card,3,Cancelled
+2024-11-21,41759.36,PRD001,CUST6088,Riya Singh,Home & Kitchen,Chennai,Debit Card,5,Pending
+2024-09-18,36671.92,PRD048,CUST9128,Priya Patel,Beauty,Hyderabad,Credit Card,2,Delivered
+2024-05-19,6827.01,PRD134,CUST1808,Rahul Patel,Home & Kitchen,Kolkata,Credit Card,2,Cancelled
+2024-01-02,45302.34,PRD135,CUST6723,Vikram Gupta,Clothing,Kolkata,Cash on Delivery,1,Cancelled
+2025-04-30,21732.45,PRD005,CUST2115,Arjun Gupta,Home & Kitchen,Mumbai,Cash on Delivery,1,Pending
+2023-03-26,23225.13,PRD142,CUST3574,Arjun Roy,Home & Kitchen,Hyderabad,Cash on Delivery,1,Delivered
+2023-07-01,6350.19,PRD042,CUST4001,Vikram Mitra,Home & Kitchen,Kolkata,Credit Card,5,Pending
+2025-06-09,23721.47,PRD007,CUST9963,Vikram Roy,Books,Hyderabad,UPI,4,Pending
+2024-02-28,21576.04,PRD125,CUST7229,Sourav Das,Home & Kitchen,Delhi,UPI,3,Cancelled
+2023-09-09,17539,PRD032,CUST8933,Riya Singh,Home & Kitchen,Delhi,Cash on Delivery,2,Cancelled
+2024-08-29,48326.74,PRD095,CUST8406,Priya Sharma,Toys,Mumbai,Credit Card,5,Delivered
+2024-05-23,19665.88,PRD041,CUST6461,Sneha Chatterjee,Electronics,Chennai,Credit Card,3,Delivered
+2023-07-15,36453.48,PRD133,CUST5733,Vikram Sharma,Beauty,Delhi,Debit Card,4,Pending
+2024-01-21,25885.47,PRD062,CUST3513,Arjun Gupta,Beauty,Chennai,Credit Card,5,Delivered
+2023-12-06,18603.73,PRD098,CUST8273,Arjun Mitra,Clothing,Delhi,Credit Card,1,Pending
+2023-04-10,12945.93,PRD139,CUST1904,Vikram Patel,Beauty,Kolkata,UPI,2,Pending
+2023-07-28,25573.06,PRD048,CUST1968,Sneha Singh,Beauty,Hyderabad,UPI,3,Pending
+2025-03-19,8936.87,PRD095,CUST1157,Sneha Singh,Books,Kolkata,UPI,1,Delivered
+2025-03-15,7407.81,PRD126,CUST6056,Arjun Singh,Toys,Bangalore,Credit Card,1,Cancelled
+2024-01-06,16227.59,PRD038,CUST9559,Neha Singh,Beauty,Mumbai,UPI,5,Cancelled
+2023-09-12,22337.47,PRD144,CUST6537,Sneha Sen,Books,Chennai,Cash on Delivery,1,Cancelled
+2023-03-27,16379.2,PRD071,CUST5461,Amit Singh,Books,Bangalore,Debit Card,2,Pending
+2023-02-12,2143.07,PRD091,CUST5694,Priya Das,Clothing,Mumbai,Cash on Delivery,1,Cancelled
+2023-02-24,27637.73,PRD013,CUST3460,Anjali Verma,Toys,Mumbai,UPI,2,Cancelled
+2023-01-24,36306.65,PRD101,CUST1989,Vikram Patel,Beauty,Hyderabad,UPI,1,Cancelled
+2024-09-29,23012.42,PRD142,CUST6468,Amit Sen,Clothing,Bangalore,Cash on Delivery,4,Pending
+2024-08-09,35038.16,PRD073,CUST3070,Sneha Sen,Electronics,Bangalore,Cash on Delivery,4,Pending
+2024-08-20,5355.55,PRD113,CUST1524,Sourav Das,Home & Kitchen,Mumbai,Debit Card,3,Cancelled
+2023-12-18,11552.13,PRD071,CUST8166,Arjun Verma,Beauty,Bangalore,UPI,3,Cancelled
+2023-02-20,44534.07,PRD039,CUST7956,Riya Verma,Home & Kitchen,Delhi,Debit Card,4,Pending
+2023-05-18,43706.77,PRD019,CUST2925,Sourav Singh,Books,Delhi,Cash on Delivery,3,Delivered
+2023-03-04,45519.01,PRD069,CUST8595,Riya Chatterjee,Beauty,Kolkata,Cash on Delivery,5,Pending
+2024-10-27,31773.75,PRD010,CUST5155,Amit Singh,Home & Kitchen,Kolkata,Cash on Delivery,2,Cancelled
+2024-07-22,20781.6,PRD106,CUST4525,Riya Sharma,Home & Kitchen,Delhi,UPI,4,Delivered
+2025-06-16,29566.59,PRD109,CUST6256,Arjun Verma,Electronics,Mumbai,Credit Card,1,Cancelled
+2024-04-05,21558.15,PRD146,CUST7207,Rahul Sen,Home & Kitchen,Kolkata,Cash on Delivery,3,Pending
+2024-03-16,38833.15,PRD110,CUST8607,Rahul Patel,Electronics,Kolkata,Cash on Delivery,4,Pending
+2023-10-14,25803.5,PRD034,CUST6535,Anjali Das,Toys,Chennai,UPI,5,Cancelled
+2023-03-12,3271.1,PRD111,CUST2573,Neha Roy,Electronics,Hyderabad,Debit Card,3,Delivered
+2023-02-09,48020.76,PRD086,CUST9437,Rahul Sen,Books,Mumbai,Cash on Delivery,2,Cancelled
+2024-11-28,21923.19,PRD098,CUST3547,Vikram Gupta,Books,Bangalore,Credit Card,3,Pending
+2023-09-15,38137.98,PRD049,CUST3930,Sourav Mitra,Home & Kitchen,Mumbai,Debit Card,3,Cancelled
+2023-09-14,16839.41,PRD083,CUST6836,Vikram Singh,Beauty,Kolkata,Credit Card,3,Delivered
+2024-11-04,15288.32,PRD023,CUST7496,Sourav Verma,Home & Kitchen,Hyderabad,Cash on Delivery,5,Pending
+2023-12-05,36106.29,PRD074,CUST7172,Sourav Singh,Home & Kitchen,Mumbai,UPI,2,Pending
+2025-04-06,42284.78,PRD042,CUST9189,Anjali Sen,Books,Mumbai,Cash on Delivery,3,Pending
+2023-02-02,26452.88,PRD086,CUST5864,Sourav Chatterjee,Books,Chennai,UPI,3,Delivered
+2025-02-16,34145.33,PRD061,CUST6772,Priya Sen,Electronics,Kolkata,Cash on Delivery,3,Delivered
+2024-05-31,6343.92,PRD147,CUST3801,Sourav Gupta,Home & Kitchen,Bangalore,UPI,1,Cancelled
+2023-05-08,22855.44,PRD074,CUST8673,Sneha Das,Clothing,Chennai,UPI,4,Pending
+2024-02-03,22123.18,PRD087,CUST5314,Priya Sharma,Toys,Chennai,Credit Card,1,Delivered
+2024-08-16,28952.91,PRD073,CUST5791,Priya Gupta,Home & Kitchen,Kolkata,Credit Card,4,Delivered
+2025-02-18,48875.18,PRD033,CUST7398,Priya Sen,Toys,Kolkata,Cash on Delivery,1,Delivered
+2024-02-18,19004.31,PRD012,CUST9390,Anjali Gupta,Home & Kitchen,Bangalore,Cash on Delivery,3,Delivered
+2023-08-05,30938.66,PRD098,CUST9023,Riya Mitra,Books,Chennai,UPI,3,Delivered
+2024-02-06,27248.96,PRD063,CUST5752,Anjali Patel,Home & Kitchen,Hyderabad,Credit Card,4,Cancelled
+2023-02-24,39057.32,PRD101,CUST1725,Sourav Sen,Clothing,Kolkata,Debit Card,1,Cancelled
+2023-01-19,46965.82,PRD034,CUST8485,Riya Patel,Beauty,Delhi,UPI,2,Delivered
+2024-03-21,39964.84,PRD143,CUST1118,Priya Patel,Clothing,Kolkata,UPI,2,Delivered
+2023-09-02,44813.95,PRD070,CUST4099,Priya Das,Clothing,Delhi,Debit Card,2,Pending
+2025-02-01,32861.62,PRD132,CUST9604,Vikram Singh,Electronics,Hyderabad,Credit Card,3,Delivered
+2024-05-01,11388.98,PRD027,CUST4448,Anjali Das,Books,Kolkata,Credit Card,3,Pending
+2023-09-11,23880.46,PRD038,CUST8583,Neha Gupta,Clothing,Kolkata,Credit Card,3,Cancelled
+2024-02-20,27617.77,PRD110,CUST1840,Priya Sharma,Electronics,Hyderabad,Cash on Delivery,2,Delivered
+2025-06-03,21278.3,PRD098,CUST8850,Sneha Sen,Beauty,Kolkata,Credit Card,5,Cancelled
+2023-04-12,1348.87,PRD041,CUST4347,Anjali Chatterjee,Home & Kitchen,Mumbai,Debit Card,3,Delivered
+2024-04-29,9204.35,PRD034,CUST7394,Sneha Gupta,Beauty,Mumbai,UPI,1,Delivered
+2023-04-23,2345.35,PRD092,CUST9945,Amit Chatterjee,Toys,Bangalore,Debit Card,2,Pending
+2025-04-05,30936.47,PRD126,CUST2280,Arjun Sen,Books,Kolkata,Credit Card,1,Pending
+2025-03-31,13420.97,PRD021,CUST8943,Anjali Mitra,Beauty,Bangalore,UPI,3,Delivered
+2024-11-18,4949.64,PRD092,CUST6408,Vikram Das,Home & Kitchen,Kolkata,Debit Card,5,Delivered
+2023-10-14,46695.72,PRD126,CUST1731,Amit Patel,Beauty,Chennai,Credit Card,2,Delivered
+2024-06-22,23990.27,PRD051,CUST6821,Arjun Chatterjee,Home & Kitchen,Chennai,Cash on Delivery,3,Delivered
+2023-09-13,9318.24,PRD148,CUST8669,Neha Singh,Home & Kitchen,Bangalore,Credit Card,3,Delivered
+2025-05-03,38366.03,PRD012,CUST9539,Priya Mitra,Toys,Delhi,Credit Card,3,Cancelled
+2025-03-19,35095.96,PRD141,CUST3563,Anjali Sen,Toys,Bangalore,UPI,3,Cancelled
+2023-07-20,48201.42,PRD086,CUST6935,Neha Verma,Books,Mumbai,UPI,3,Cancelled
+2023-07-12,13152.29,PRD007,CUST7357,Vikram Sharma,Books,Chennai,Cash on Delivery,4,Pending
+2023-05-08,7970.3,PRD118,CUST1531,Sourav Mitra,Electronics,Mumbai,Debit Card,5,Delivered
+2024-12-02,983.76,PRD059,CUST5417,Rahul Mitra,Clothing,Chennai,Cash on Delivery,1,Cancelled
+2024-05-28,24958.47,PRD005,CUST1856,Sneha Gupta,Books,Chennai,Cash on Delivery,2,Pending
+2024-05-28,37367.16,PRD126,CUST1313,Amit Singh,Home & Kitchen,Kolkata,Credit Card,4,Cancelled
+2023-06-12,41685.21,PRD023,CUST2813,Sneha Sen,Toys,Hyderabad,Credit Card,4,Cancelled
+2024-02-13,37123.65,PRD029,CUST9871,Neha Verma,Beauty,Chennai,Credit Card,2,Cancelled
+2025-02-19,8276.43,PRD083,CUST1309,Vikram Das,Books,Delhi,Debit Card,2,Pending
+2024-11-07,24630.58,PRD002,CUST1301,Rahul Roy,Clothing,Hyderabad,Cash on Delivery,2,Cancelled
+2024-11-08,24146.54,PRD035,CUST8904,Anjali Chatterjee,Beauty,Hyderabad,Debit Card,3,Pending
+2023-02-23,48721.85,PRD053,CUST9913,Vikram Roy,Toys,Hyderabad,Cash on Delivery,5,Pending
+2025-03-28,42798.8,PRD078,CUST2005,Riya Verma,Books,Kolkata,Credit Card,1,Pending
+2024-10-26,15781.95,PRD148,CUST7958,Amit Das,Electronics,Delhi,Credit Card,4,Pending
+2023-04-15,15384.11,PRD010,CUST9484,Vikram Singh,Electronics,Hyderabad,Cash on Delivery,2,Delivered
+2025-03-22,18044.75,PRD065,CUST2099,Arjun Singh,Home & Kitchen,Delhi,Cash on Delivery,5,Delivered
+2023-10-30,2145.38,PRD030,CUST7417,Sneha Roy,Home & Kitchen,Delhi,Debit Card,1,Cancelled
+2025-05-29,37439.18,PRD112,CUST7765,Sneha Verma,Toys,Mumbai,Debit Card,5,Pending
+2023-12-09,27376.71,PRD131,CUST7173,Rahul Roy,Clothing,Mumbai,Debit Card,2,Pending
+2023-06-02,19362.83,PRD082,CUST6882,Sourav Chatterjee,Toys,Delhi,Credit Card,2,Cancelled
+2024-06-30,23117.6,PRD084,CUST7591,Riya Chatterjee,Home & Kitchen,Mumbai,UPI,2,Delivered
+2025-06-29,30131.62,PRD057,CUST2296,Amit Sharma,Beauty,Bangalore,Debit Card,5,Cancelled
+2023-02-10,17106.04,PRD043,CUST3463,Priya Sen,Home & Kitchen,Mumbai,UPI,4,Delivered
+2024-10-28,9815.14,PRD141,CUST7665,Priya Chatterjee,Clothing,Bangalore,Cash on Delivery,2,Delivered
+2023-07-12,20543.04,PRD120,CUST9790,Anjali Sharma,Clothing,Chennai,Cash on Delivery,2,Cancelled
+2023-08-28,35458.72,PRD049,CUST6680,Sneha Roy,Toys,Hyderabad,Debit Card,5,Cancelled
+2024-07-13,37524.05,PRD094,CUST7537,Neha Chatterjee,Electronics,Chennai,UPI,2,Pending
+2023-04-12,38738.18,PRD014,CUST3593,Vikram Das,Toys,Hyderabad,UPI,4,Cancelled
+2023-09-30,2136.61,PRD143,CUST6948,Riya Patel,Home & Kitchen,Delhi,Cash on Delivery,3,Delivered
+2023-09-25,5636.44,PRD078,CUST7529,Anjali Verma,Toys,Hyderabad,Cash on Delivery,5,Cancelled
+2023-01-02,27070.34,PRD001,CUST4951,Arjun Patel,Electronics,Hyderabad,Credit Card,4,Delivered
+2023-08-28,10113.34,PRD083,CUST8623,Neha Chatterjee,Home & Kitchen,Hyderabad,Debit Card,3,Delivered
+2025-03-26,37565.07,PRD051,CUST7142,Riya Singh,Books,Bangalore,Credit Card,4,Delivered
+2023-06-25,49965.8,PRD039,CUST3201,Amit Gupta,Toys,Mumbai,UPI,1,Pending
+2023-04-17,25027.44,PRD131,CUST5604,Vikram Verma,Toys,Bangalore,Cash on Delivery,5,Pending
+2023-09-12,23127.31,PRD135,CUST8133,Rahul Patel,Beauty,Delhi,UPI,4,Pending
+2024-01-10,42327.32,PRD011,CUST7214,Sneha Sen,Books,Chennai,Credit Card,2,Delivered
+2023-05-04,27477.46,PRD127,CUST9717,Riya Singh,Toys,Kolkata,UPI,2,Cancelled
+2024-04-13,44313.9,PRD092,CUST9044,Vikram Singh,Books,Delhi,Cash on Delivery,3,Delivered
+2023-04-21,26822.5,PRD134,CUST4255,Anjali Verma,Toys,Bangalore,Credit Card,4,Cancelled
+2023-06-27,45463.18,PRD076,CUST3956,Arjun Roy,Electronics,Kolkata,Cash on Delivery,5,Cancelled
+2024-02-17,25865.72,PRD069,CUST2753,Sneha Sharma,Electronics,Mumbai,Cash on Delivery,5,Pending
+2025-05-20,24501.88,PRD088,CUST9543,Anjali Chatterjee,Toys,Hyderabad,Debit Card,3,Cancelled
+2024-10-20,48829.05,PRD047,CUST5421,Priya Gupta,Beauty,Bangalore,UPI,5,Cancelled
+2025-05-01,38756.2,PRD107,CUST3115,Amit Roy,Books,Chennai,Cash on Delivery,4,Delivered
+2023-10-29,9366.87,PRD130,CUST1719,Sourav Sharma,Home & Kitchen,Hyderabad,Debit Card,5,Cancelled
+2023-01-02,25175.58,PRD011,CUST5100,Amit Patel,Books,Mumbai,Credit Card,5,Delivered
+2024-07-09,35010.76,PRD018,CUST3989,Arjun Verma,Clothing,Bangalore,Credit Card,3,Pending
+2024-08-02,15076.03,PRD120,CUST6383,Amit Patel,Electronics,Hyderabad,Credit Card,2,Pending
+2024-08-26,22779.39,PRD138,CUST4631,Vikram Sharma,Home & Kitchen,Chennai,Cash on Delivery,1,Cancelled
+2023-07-16,1396.73,PRD023,CUST8059,Rahul Gupta,Books,Hyderabad,UPI,1,Pending
+2024-06-11,43439.49,PRD004,CUST4181,Vikram Roy,Home & Kitchen,Hyderabad,Debit Card,1,Pending
+2025-04-02,2346.44,PRD076,CUST8389,Priya Patel,Toys,Delhi,Cash on Delivery,1,Delivered
+2024-09-28,25156.08,PRD034,CUST2345,Sourav Sen,Home & Kitchen,Kolkata,Debit Card,5,Cancelled
+2024-02-29,46978.4,PRD047,CUST5620,Anjali Chatterjee,Clothing,Bangalore,Cash on Delivery,4,Pending
+2024-07-31,27069.43,PRD125,CUST6150,Priya Patel,Home & Kitchen,Delhi,UPI,4,Cancelled
+2025-03-31,40633.13,PRD001,CUST2242,Neha Patel,Toys,Mumbai,UPI,1,Delivered
+2024-04-07,47215.42,PRD002,CUST5500,Amit Patel,Electronics,Mumbai,Credit Card,1,Delivered
+2024-05-23,36400.9,PRD009,CUST4013,Sneha Chatterjee,Home & Kitchen,Hyderabad,Cash on Delivery,2,Pending
+2023-07-15,10592.76,PRD097,CUST2291,Priya Chatterjee,Books,Delhi,Credit Card,1,Cancelled
+2024-01-25,22643.98,PRD027,CUST3345,Sourav Singh,Books,Mumbai,Debit Card,5,Delivered
+2025-03-12,37359.97,PRD134,CUST1783,Arjun Sharma,Electronics,Mumbai,UPI,1,Delivered
+2025-06-20,28017.31,PRD108,CUST3763,Vikram Sen,Books,Bangalore,UPI,1,Delivered
+2023-05-30,30308.31,PRD029,CUST4135,Rahul Singh,Beauty,Delhi,Cash on Delivery,5,Pending
+2023-12-04,41069.51,PRD130,CUST7169,Arjun Chatterjee,Clothing,Mumbai,UPI,2,Cancelled
+2024-12-05,634.83,PRD103,CUST9679,Vikram Sharma,Toys,Mumbai,UPI,4,Cancelled
+2023-11-11,49043.06,PRD081,CUST8945,Sourav Chatterjee,Books,Delhi,Credit Card,2,Delivered
+2025-03-08,25781.32,PRD093,CUST8172,Anjali Sen,Electronics,Bangalore,Cash on Delivery,4,Pending
+2025-03-20,44773.36,PRD140,CUST9712,Anjali Chatterjee,Electronics,Kolkata,Cash on Delivery,1,Pending
+2025-03-20,7643.44,PRD031,CUST1941,Vikram Singh,Books,Delhi,Debit Card,4,Delivered
+2023-06-23,30905.38,PRD054,CUST9568,Riya Roy,Home & Kitchen,Delhi,Credit Card,1,Pending
+2025-06-07,27469.72,PRD065,CUST1018,Arjun Roy,Books,Delhi,UPI,2,Pending
+2024-03-10,24141.9,PRD013,CUST3744,Sourav Sharma,Beauty,Kolkata,Cash on Delivery,4,Delivered
+2023-11-27,36012.38,PRD077,CUST8750,Neha Roy,Home & Kitchen,Kolkata,Credit Card,5,Cancelled
+2024-08-21,22469.88,PRD129,CUST4399,Sneha Chatterjee,Electronics,Kolkata,Debit Card,2,Delivered
+2023-05-03,45255.26,PRD023,CUST5750,Vikram Gupta,Clothing,Chennai,Cash on Delivery,5,Cancelled
+2025-03-09,44655.2,PRD140,CUST4236,Rahul Patel,Beauty,Mumbai,Debit Card,4,Pending
+2024-06-21,10318.23,PRD120,CUST2775,Arjun Chatterjee,Books,Delhi,Cash on Delivery,5,Pending
+2024-07-26,2480.51,PRD022,CUST9177,Neha Singh,Home & Kitchen,Delhi,Debit Card,5,Cancelled
+2023-05-21,19734.77,PRD115,CUST8102,Vikram Singh,Beauty,Kolkata,Debit Card,1,Pending
+2024-07-05,353.86,PRD053,CUST1670,Anjali Sen,Toys,Hyderabad,Debit Card,2,Cancelled
+2025-05-21,21547.34,PRD034,CUST8227,Rahul Mitra,Toys,Kolkata,Debit Card,2,Pending
+2023-12-28,7080.51,PRD111,CUST2944,Priya Chatterjee,Toys,Kolkata,UPI,1,Cancelled
+2023-09-28,11695.16,PRD132,CUST3683,Riya Das,Beauty,Chennai,Credit Card,3,Cancelled
+2023-03-15,27226.56,PRD009,CUST5091,Anjali Chatterjee,Toys,Chennai,UPI,3,Cancelled
+2024-06-11,7168.69,PRD042,CUST8972,Neha Sharma,Books,Chennai,Credit Card,2,Cancelled
+2024-09-25,36471.31,PRD148,CUST4807,Neha Sharma,Home & Kitchen,Chennai,UPI,1,Delivered
+2024-02-20,32348.54,PRD148,CUST2838,Riya Sen,Toys,Hyderabad,Cash on Delivery,1,Delivered
+2025-01-19,33539.66,PRD073,CUST2847,Sourav Singh,Books,Delhi,UPI,2,Pending
+2023-08-08,37711.94,PRD111,CUST1483,Neha Mitra,Electronics,Delhi,Credit Card,2,Cancelled
+2025-05-05,48709,PRD070,CUST9496,Riya Das,Electronics,Mumbai,UPI,5,Delivered
+2023-08-02,16546.74,PRD137,CUST5701,Sneha Verma,Toys,Delhi,Credit Card,1,Delivered
+2023-06-07,44358.53,PRD018,CUST7587,Priya Roy,Electronics,Hyderabad,Debit Card,3,Cancelled
+2025-02-15,46855.92,PRD145,CUST1826,Sourav Sen,Electronics,Kolkata,UPI,2,Delivered
+2023-03-07,41203.26,PRD128,CUST4082,Sneha Verma,Toys,Delhi,UPI,2,Cancelled
+2024-04-29,29073.06,PRD122,CUST6820,Arjun Gupta,Toys,Delhi,Credit Card,3,Cancelled
+2024-12-25,28549.78,PRD020,CUST5397,Arjun Chatterjee,Toys,Mumbai,Debit Card,3,Pending
+2023-10-28,33904.6,PRD091,CUST4474,Neha Verma,Electronics,Delhi,Cash on Delivery,2,Cancelled
+2024-12-02,36724.5,PRD143,CUST5749,Rahul Chatterjee,Beauty,Kolkata,Credit Card,4,Pending
+2024-02-06,2719.22,PRD089,CUST8719,Riya Mitra,Home & Kitchen,Hyderabad,Credit Card,4,Cancelled
+2023-11-12,4267,PRD099,CUST7010,Neha Sen,Books,Chennai,Cash on Delivery,1,Delivered
+2023-06-06,41145.31,PRD090,CUST9095,Arjun Das,Toys,Delhi,UPI,2,Pending
+2024-04-05,46604.27,PRD026,CUST8352,Sourav Gupta,Beauty,Kolkata,Credit Card,1,Cancelled
+2023-12-17,38450.35,PRD036,CUST5687,Riya Verma,Home & Kitchen,Delhi,Cash on Delivery,5,Cancelled
+2024-07-02,29282.61,PRD138,CUST1688,Neha Chatterjee,Home & Kitchen,Bangalore,Debit Card,1,Cancelled
+2024-02-11,47609.98,PRD053,CUST4323,Arjun Patel,Toys,Mumbai,Debit Card,3,Pending
+2024-05-18,46654.57,PRD056,CUST3829,Amit Singh,Beauty,Bangalore,Debit Card,2,Pending
+2025-04-07,2979.14,PRD104,CUST8966,Neha Das,Books,Kolkata,Cash on Delivery,4,Delivered
+2023-05-26,10519.15,PRD075,CUST2028,Priya Mitra,Electronics,Hyderabad,UPI,2,Cancelled
+2025-06-10,33763.36,PRD080,CUST8661,Arjun Gupta,Electronics,Mumbai,UPI,1,Cancelled
+2024-05-31,3593.14,PRD083,CUST1845,Anjali Sharma,Electronics,Kolkata,Cash on Delivery,5,Cancelled
+2025-04-17,39008.93,PRD108,CUST1743,Anjali Patel,Toys,Delhi,Debit Card,4,Pending
+2024-08-14,19243.32,PRD012,CUST8343,Arjun Chatterjee,Toys,Bangalore,Debit Card,5,Pending
+2024-06-30,34450.54,PRD080,CUST2308,Sneha Sen,Home & Kitchen,Kolkata,UPI,5,Cancelled
+2024-03-21,138.51,PRD029,CUST9889,Sourav Patel,Beauty,Chennai,UPI,3,Cancelled
+2024-08-18,41441.71,PRD096,CUST2162,Neha Sen,Home & Kitchen,Kolkata,Cash on Delivery,2,Pending
+2024-04-11,34751.79,PRD009,CUST5206,Rahul Chatterjee,Toys,Delhi,Cash on Delivery,2,Pending
+2024-12-31,4105.41,PRD126,CUST8864,Rahul Singh,Toys,Bangalore,Cash on Delivery,1,Cancelled
+2023-10-13,36784.99,PRD114,CUST8837,Riya Patel,Clothing,Hyderabad,Debit Card,5,Pending
+2024-09-11,15113.3,PRD106,CUST7221,Riya Roy,Electronics,Hyderabad,Cash on Delivery,4,Pending
+2023-11-24,10648.95,PRD037,CUST9846,Amit Verma,Beauty,Kolkata,Cash on Delivery,1,Cancelled
+2023-07-15,44997.26,PRD122,CUST3283,Vikram Verma,Home & Kitchen,Bangalore,Debit Card,3,Pending
+2025-05-26,16620.86,PRD145,CUST7181,Anjali Mitra,Electronics,Bangalore,Debit Card,5,Pending
+2023-02-19,39690.03,PRD081,CUST6029,Rahul Singh,Books,Chennai,UPI,3,Pending
+2024-07-06,30026.11,PRD036,CUST3632,Anjali Sharma,Clothing,Delhi,Debit Card,2,Delivered
+2024-07-04,6699.33,PRD062,CUST9156,Riya Sharma,Electronics,Mumbai,UPI,3,Pending
+2025-03-29,5392.58,PRD024,CUST3026,Priya Roy,Books,Mumbai,Cash on Delivery,5,Pending
+2023-11-28,38158.42,PRD063,CUST7687,Anjali Roy,Toys,Kolkata,Credit Card,4,Cancelled
+2023-07-24,1896.11,PRD112,CUST5243,Amit Chatterjee,Clothing,Hyderabad,Cash on Delivery,3,Cancelled
+2024-08-01,4195.67,PRD140,CUST1696,Riya Mitra,Electronics,Chennai,UPI,4,Pending
+2023-11-25,19006.68,PRD049,CUST8538,Rahul Roy,Books,Bangalore,Credit Card,3,Delivered
+2024-10-26,3287.93,PRD061,CUST9860,Amit Chatterjee,Clothing,Hyderabad,Credit Card,3,Delivered
+2023-04-27,46653.92,PRD073,CUST8491,Vikram Singh,Electronics,Delhi,Debit Card,2,Delivered
+2023-05-24,5276.28,PRD086,CUST5720,Amit Verma,Home & Kitchen,Chennai,Cash on Delivery,1,Cancelled
+2025-04-01,16032.18,PRD003,CUST1530,Vikram Das,Toys,Delhi,Credit Card,1,Delivered
+2025-01-09,14673.54,PRD115,CUST6185,Vikram Singh,Books,Delhi,Debit Card,3,Cancelled
+2024-02-11,8272.21,PRD095,CUST4268,Neha Roy,Books,Chennai,UPI,5,Delivered
+2023-08-04,17449.29,PRD045,CUST6089,Riya Verma,Electronics,Bangalore,Cash on Delivery,3,Pending
+2023-02-02,10769.43,PRD130,CUST9373,Sourav Roy,Books,Kolkata,Cash on Delivery,4,Delivered
+2024-10-14,45020.1,PRD031,CUST1998,Sourav Mitra,Clothing,Delhi,UPI,3,Cancelled
+2025-04-02,25162.43,PRD025,CUST2847,Sourav Sharma,Books,Delhi,UPI,3,Pending
+2023-06-14,14283.21,PRD034,CUST1080,Sneha Singh,Home & Kitchen,Hyderabad,Debit Card,5,Delivered
+2023-12-21,389.32,PRD114,CUST9261,Neha Singh,Books,Mumbai,Credit Card,2,Cancelled
+2024-04-23,11965.23,PRD060,CUST5675,Amit Sen,Beauty,Hyderabad,Cash on Delivery,4,Delivered
+2024-10-26,35284.47,PRD014,CUST6325,Arjun Patel,Beauty,Chennai,Credit Card,1,Delivered
+2024-12-24,6663.31,PRD006,CUST3003,Rahul Sen,Toys,Bangalore,UPI,2,Pending
+2023-09-30,46704.44,PRD088,CUST8441,Vikram Patel,Clothing,Mumbai,UPI,5,Pending
+2023-05-07,3674.26,PRD017,CUST7412,Priya Das,Toys,Kolkata,Credit Card,5,Cancelled
+2024-05-26,7760.51,PRD109,CUST9423,Riya Verma,Home & Kitchen,Bangalore,Debit Card,2,Delivered
+2025-05-17,10462.73,PRD012,CUST2168,Riya Gupta,Books,Kolkata,Debit Card,4,Cancelled
+2025-01-10,31991.37,PRD080,CUST7338,Vikram Sharma,Toys,Delhi,Credit Card,3,Pending
+2024-05-05,27699.01,PRD050,CUST3839,Priya Mitra,Toys,Kolkata,UPI,2,Delivered
+2023-09-23,21054.9,PRD102,CUST1281,Sourav Mitra,Clothing,Delhi,UPI,4,Pending
+2023-06-30,34588.34,PRD095,CUST1106,Riya Patel,Books,Kolkata,UPI,1,Delivered
+2023-12-20,4639.59,PRD081,CUST4928,Amit Chatterjee,Toys,Chennai,Credit Card,5,Delivered
+2024-09-11,49125.22,PRD044,CUST8563,Vikram Singh,Electronics,Hyderabad,Debit Card,5,Delivered
+2023-03-09,19833.33,PRD149,CUST9547,Vikram Chatterjee,Electronics,Hyderabad,UPI,1,Delivered
+2024-03-30,38927.4,PRD005,CUST9475,Priya Sharma,Toys,Chennai,Credit Card,4,Pending
+2025-03-26,35615.67,PRD048,CUST8980,Priya Gupta,Beauty,Bangalore,Cash on Delivery,1,Delivered
+2025-01-26,29660.31,PRD016,CUST9376,Anjali Das,Beauty,Mumbai,Credit Card,3,Cancelled
+2023-11-09,32542.01,PRD133,CUST2328,Arjun Patel,Beauty,Hyderabad,UPI,4,Cancelled
+2023-01-18,8101.27,PRD028,CUST1414,Sneha Gupta,Home & Kitchen,Chennai,UPI,2,Cancelled
+2023-03-11,35960.88,PRD043,CUST8953,Priya Patel,Books,Mumbai,Cash on Delivery,2,Pending
+2025-05-28,46133.09,PRD067,CUST9140,Riya Sen,Electronics,Mumbai,Cash on Delivery,2,Delivered
+2023-10-28,42540.49,PRD129,CUST5298,Sneha Gupta,Books,Delhi,Debit Card,4,Delivered
+2024-10-01,29590.18,PRD005,CUST7524,Amit Gupta,Home & Kitchen,Mumbai,UPI,5,Delivered
+2023-02-25,35775.68,PRD066,CUST9418,Rahul Patel,Electronics,Hyderabad,Cash on Delivery,2,Pending
+2023-04-30,30710.87,PRD111,CUST3467,Arjun Patel,Books,Kolkata,Cash on Delivery,1,Pending
+2023-12-19,21514.81,PRD052,CUST1654,Anjali Mitra,Electronics,Hyderabad,Debit Card,3,Delivered
+2024-12-24,38404.56,PRD062,CUST4791,Sourav Verma,Clothing,Chennai,Credit Card,3,Cancelled
+2024-06-13,12034.66,PRD098,CUST1942,Riya Roy,Beauty,Delhi,Cash on Delivery,2,Pending
+2023-01-03,42007.36,PRD149,CUST6884,Sneha Patel,Books,Delhi,Cash on Delivery,3,Pending
+2025-03-12,33110.47,PRD111,CUST2264,Sneha Gupta,Beauty,Bangalore,Credit Card,1,Cancelled
+2025-03-07,37883.58,PRD068,CUST2873,Priya Das,Home & Kitchen,Kolkata,Credit Card,5,Cancelled
+2024-12-22,21512.43,PRD113,CUST9072,Amit Patel,Beauty,Delhi,Credit Card,5,Delivered
+2025-03-15,6302.11,PRD037,CUST8211,Anjali Das,Beauty,Delhi,UPI,2,Cancelled
+2023-03-28,34607.69,PRD139,CUST3639,Neha Sharma,Electronics,Chennai,Debit Card,3,Delivered
+2024-09-11,5578.52,PRD149,CUST8515,Amit Mitra,Books,Bangalore,Cash on Delivery,2,Delivered
+2023-12-03,30897.01,PRD049,CUST7684,Vikram Patel,Clothing,Hyderabad,Debit Card,1,Delivered
+2025-06-14,24292.46,PRD064,CUST8441,Priya Mitra,Beauty,Kolkata,Cash on Delivery,3,Cancelled
+2023-06-14,39248.72,PRD094,CUST6753,Vikram Patel,Beauty,Mumbai,Credit Card,5,Cancelled
+2024-06-30,4756.34,PRD060,CUST2260,Vikram Roy,Books,Mumbai,Debit Card,3,Delivered
+2023-03-08,44738.62,PRD053,CUST8658,Anjali Patel,Toys,Chennai,Debit Card,3,Delivered
+2025-01-30,15702.06,PRD037,CUST5961,Priya Gupta,Toys,Chennai,Debit Card,4,Cancelled
+2025-03-20,38815.88,PRD121,CUST5332,Sourav Sen,Clothing,Mumbai,Debit Card,3,Pending
+2025-03-17,9707.44,PRD048,CUST4749,Sneha Das,Books,Hyderabad,UPI,1,Cancelled
+2024-01-03,9751.79,PRD112,CUST7440,Priya Sen,Clothing,Bangalore,Credit Card,1,Cancelled
+2024-12-14,13776.65,PRD130,CUST8925,Amit Roy,Home & Kitchen,Kolkata,UPI,5,Cancelled
+2024-07-04,3533.71,PRD044,CUST5342,Amit Verma,Beauty,Delhi,Cash on Delivery,2,Cancelled
+2023-05-03,12714.68,PRD133,CUST1959,Vikram Mitra,Clothing,Delhi,Credit Card,1,Delivered
+2024-02-28,18355.58,PRD027,CUST8477,Rahul Sharma,Books,Hyderabad,Credit Card,3,Delivered
+2023-09-27,1238.15,PRD125,CUST8574,Arjun Sharma,Toys,Mumbai,Debit Card,5,Pending
+2025-01-12,12876.96,PRD114,CUST8799,Sneha Sen,Books,Hyderabad,UPI,1,Pending
+2025-06-23,2702.34,PRD107,CUST1869,Amit Gupta,Home & Kitchen,Hyderabad,Cash on Delivery,1,Delivered
+2024-12-18,1956.85,PRD125,CUST3195,Riya Mitra,Books,Kolkata,Credit Card,3,Delivered
+2024-08-28,3205.37,PRD022,CUST3160,Priya Roy,Home & Kitchen,Kolkata,Cash on Delivery,1,Cancelled
+2025-04-04,45504.74,PRD050,CUST3400,Sneha Patel,Toys,Bangalore,Debit Card,4,Delivered
+2023-06-20,38142.63,PRD048,CUST2457,Sneha Roy,Home & Kitchen,Delhi,Cash on Delivery,2,Pending
+2023-12-28,18995.27,PRD107,CUST5512,Vikram Patel,Toys,Bangalore,Cash on Delivery,3,Delivered
+2023-10-12,45679.6,PRD148,CUST5518,Arjun Roy,Books,Hyderabad,UPI,1,Pending
+2024-06-07,18060.3,PRD050,CUST6648,Sourav Patel,Home & Kitchen,Delhi,Debit Card,1,Cancelled
+2025-05-06,12916.46,PRD004,CUST3201,Arjun Gupta,Beauty,Kolkata,Credit Card,3,Cancelled
+2025-02-25,26816.02,PRD018,CUST1896,Sneha Sharma,Clothing,Mumbai,Credit Card,3,Pending
+2024-03-05,14583.99,PRD092,CUST1689,Sourav Gupta,Toys,Mumbai,Credit Card,3,Cancelled
+2024-04-06,31838.07,PRD093,CUST4129,Sourav Sharma,Clothing,Hyderabad,UPI,4,Pending
+2024-11-13,18997.98,PRD037,CUST1655,Sneha Das,Beauty,Chennai,UPI,3,Delivered
+2025-06-01,48446.11,PRD031,CUST9694,Amit Verma,Beauty,Bangalore,Credit Card,2,Cancelled
+2023-06-25,10785.47,PRD035,CUST7394,Anjali Sharma,Home & Kitchen,Mumbai,Debit Card,3,Pending
+2025-02-05,39209.7,PRD048,CUST9903,Sourav Das,Toys,Bangalore,Credit Card,5,Cancelled
+2024-09-27,23620.18,PRD074,CUST9146,Rahul Verma,Books,Mumbai,Credit Card,4,Delivered
+2023-02-03,31510.22,PRD073,CUST8940,Sneha Das,Toys,Delhi,Cash on Delivery,2,Delivered
+2023-09-23,36140.33,PRD049,CUST6888,Riya Sharma,Beauty,Kolkata,Credit Card,5,Delivered
+2025-02-02,31239.03,PRD015,CUST4218,Rahul Gupta,Beauty,Bangalore,UPI,2,Delivered
+2023-05-31,24704.83,PRD136,CUST6938,Arjun Mitra,Beauty,Bangalore,Cash on Delivery,4,Pending
+2024-05-15,10858.08,PRD074,CUST5267,Amit Gupta,Beauty,Bangalore,Credit Card,1,Delivered
+2025-02-13,16208.42,PRD140,CUST3589,Amit Chatterjee,Electronics,Kolkata,Debit Card,2,Cancelled
+2023-12-06,8590.9,PRD121,CUST1673,Rahul Verma,Clothing,Kolkata,Credit Card,1,Delivered
+2023-06-18,2467.44,PRD114,CUST1233,Amit Verma,Electronics,Hyderabad,Debit Card,3,Pending
+2023-12-24,32192.8,PRD024,CUST1025,Sourav Verma,Clothing,Chennai,Cash on Delivery,2,Pending
+2023-04-01,20046.08,PRD017,CUST8729,Anjali Patel,Books,Bangalore,Debit Card,4,Delivered
+2023-07-25,3531.77,PRD043,CUST2822,Vikram Sharma,Beauty,Kolkata,Cash on Delivery,4,Cancelled
+2024-02-08,7158.59,PRD127,CUST9351,Sourav Chatterjee,Electronics,Bangalore,Credit Card,1,Pending
+2025-05-17,33840.68,PRD058,CUST1897,Neha Mitra,Home & Kitchen,Hyderabad,Credit Card,4,Delivered
+2023-02-15,7622.96,PRD120,CUST6237,Neha Verma,Home & Kitchen,Delhi,UPI,2,Cancelled
+2025-06-09,17213.76,PRD101,CUST9452,Rahul Verma,Books,Hyderabad,Debit Card,1,Pending
+2024-08-11,32846.09,PRD123,CUST8574,Sneha Roy,Clothing,Hyderabad,Cash on Delivery,4,Delivered
+2023-02-27,448.91,PRD148,CUST8128,Sneha Chatterjee,Clothing,Delhi,UPI,2,Cancelled
+2024-06-06,36489.72,PRD022,CUST7152,Sourav Sen,Beauty,Hyderabad,UPI,2,Pending
+2025-05-09,36908.49,PRD009,CUST2548,Sourav Singh,Electronics,Delhi,Cash on Delivery,2,Delivered
+2024-08-15,6037.33,PRD033,CUST5157,Amit Verma,Books,Delhi,Debit Card,1,Cancelled
+2025-04-08,17294.87,PRD009,CUST9150,Arjun Das,Toys,Mumbai,UPI,2,Pending
+2024-04-25,12194.08,PRD114,CUST2281,Rahul Roy,Toys,Mumbai,Cash on Delivery,3,Cancelled
+2023-10-07,28495.16,PRD076,CUST7126,Anjali Das,Beauty,Delhi,Credit Card,5,Delivered
+2023-03-03,44046.82,PRD010,CUST8079,Rahul Chatterjee,Toys,Bangalore,UPI,5,Delivered
+2023-03-06,7129.41,PRD005,CUST1565,Arjun Chatterjee,Books,Delhi,Credit Card,5,Pending
+2024-10-26,20849.53,PRD103,CUST5238,Anjali Chatterjee,Electronics,Chennai,UPI,1,Cancelled
+2024-08-26,49500.94,PRD014,CUST1763,Sneha Roy,Books,Mumbai,Credit Card,1,Pending
+2023-12-12,2151.67,PRD036,CUST2951,Arjun Sharma,Toys,Hyderabad,Credit Card,5,Cancelled
+2024-11-29,12378.12,PRD041,CUST1220,Rahul Roy,Electronics,Kolkata,Cash on Delivery,3,Cancelled
+2024-09-23,17504.51,PRD128,CUST7207,Neha Patel,Books,Mumbai,Debit Card,1,Pending
+2023-04-01,41484.08,PRD050,CUST3145,Sourav Sen,Toys,Delhi,UPI,1,Cancelled
+2024-12-04,45264.3,PRD108,CUST2551,Amit Sharma,Clothing,Mumbai,Debit Card,4,Cancelled
+2024-06-01,32004.87,PRD131,CUST1687,Riya Singh,Books,Chennai,Credit Card,2,Cancelled
+2023-09-29,14876.9,PRD124,CUST4712,Sneha Sharma,Toys,Bangalore,Credit Card,2,Delivered
+2025-01-25,45854.04,PRD112,CUST4500,Sneha Patel,Books,Chennai,Cash on Delivery,5,Pending
+2025-05-29,40054.23,PRD101,CUST7202,Amit Sharma,Beauty,Hyderabad,UPI,1,Cancelled
+2023-09-01,37471.62,PRD086,CUST4210,Arjun Sen,Electronics,Kolkata,Cash on Delivery,1,Delivered
+2023-06-24,48473.2,PRD085,CUST8124,Anjali Sen,Clothing,Hyderabad,Credit Card,2,Delivered
+2024-05-19,13525.31,PRD065,CUST8818,Neha Das,Home & Kitchen,Bangalore,Credit Card,3,Cancelled
+2023-08-23,44785.56,PRD115,CUST3946,Riya Das,Clothing,Delhi,Credit Card,4,Cancelled
+2024-10-28,24382.63,PRD056,CUST1601,Arjun Gupta,Beauty,Mumbai,Debit Card,2,Pending
+2023-10-19,13795.4,PRD035,CUST5600,Priya Verma,Toys,Kolkata,UPI,5,Delivered
+2023-09-10,22310.12,PRD074,CUST4661,Neha Mitra,Home & Kitchen,Mumbai,Credit Card,5,Delivered
+2025-04-20,12710.9,PRD035,CUST4281,Rahul Verma,Books,Chennai,Credit Card,2,Pending
+2024-10-11,6182.51,PRD006,CUST3524,Sourav Chatterjee,Books,Mumbai,UPI,4,Pending
+2023-06-15,24703.78,PRD120,CUST1598,Sneha Sharma,Books,Hyderabad,UPI,2,Pending
+2023-09-16,48448.95,PRD016,CUST1779,Sneha Chatterjee,Beauty,Bangalore,UPI,3,Delivered
+2023-12-26,26796.18,PRD114,CUST6348,Priya Singh,Beauty,Mumbai,Cash on Delivery,3,Cancelled
+2025-03-11,43583.52,PRD032,CUST5035,Sneha Gupta,Home & Kitchen,Bangalore,Cash on Delivery,1,Delivered
+2025-04-11,31685.06,PRD064,CUST7762,Anjali Sen,Electronics,Bangalore,UPI,2,Pending
+2024-11-07,3922.69,PRD037,CUST8733,Sourav Verma,Electronics,Mumbai,Cash on Delivery,2,Cancelled
+2023-01-24,39835.04,PRD094,CUST2086,Sourav Sharma,Clothing,Mumbai,UPI,4,Cancelled
+2023-04-27,7121.2,PRD088,CUST6269,Neha Sen,Toys,Hyderabad,Cash on Delivery,4,Cancelled
+2023-06-30,32585.21,PRD099,CUST1435,Anjali Singh,Electronics,Mumbai,Credit Card,2,Cancelled
+2024-11-26,17913.11,PRD034,CUST2799,Sourav Chatterjee,Books,Mumbai,UPI,1,Delivered
+2024-09-23,20380.24,PRD135,CUST3007,Amit Singh,Books,Delhi,UPI,5,Pending
+2023-01-04,2943.37,PRD109,CUST6167,Riya Mitra,Home & Kitchen,Delhi,Debit Card,4,Cancelled
+2023-08-25,35786.17,PRD078,CUST2738,Neha Singh,Electronics,Bangalore,Debit Card,4,Cancelled
+2023-10-20,37287.48,PRD129,CUST3781,Vikram Chatterjee,Beauty,Chennai,UPI,1,Cancelled
+2024-07-12,1806.62,PRD136,CUST3949,Priya Verma,Electronics,Bangalore,Cash on Delivery,2,Delivered
+2024-03-08,27887.72,PRD007,CUST9714,Priya Verma,Toys,Delhi,UPI,5,Cancelled
+2025-05-10,7808.4,PRD089,CUST4807,Arjun Patel,Home & Kitchen,Kolkata,Debit Card,4,Delivered
+2023-10-02,2388.72,PRD098,CUST5412,Sneha Das,Electronics,Bangalore,UPI,1,Cancelled
+2023-04-18,12064.66,PRD118,CUST2297,Rahul Patel,Home & Kitchen,Kolkata,Credit Card,1,Cancelled
+2024-04-11,12716.06,PRD100,CUST2960,Vikram Mitra,Books,Hyderabad,UPI,4,Pending
+2024-07-02,7992.96,PRD027,CUST2534,Amit Sen,Books,Hyderabad,Credit Card,3,Delivered
+2023-12-29,9444.6,PRD103,CUST2188,Vikram Sen,Toys,Hyderabad,UPI,2,Delivered
+2023-02-06,26640.94,PRD125,CUST2455,Vikram Das,Home & Kitchen,Kolkata,UPI,3,Cancelled
+2025-03-09,40443.13,PRD116,CUST7187,Neha Das,Clothing,Bangalore,UPI,3,Cancelled
+2023-06-05,28193.38,PRD042,CUST4634,Sneha Sen,Books,Mumbai,Credit Card,3,Cancelled
+2023-08-01,16295.09,PRD135,CUST2405,Priya Sen,Home & Kitchen,Hyderabad,Debit Card,3,Delivered
+2023-09-12,41558.32,PRD107,CUST7641,Arjun Chatterjee,Home & Kitchen,Delhi,UPI,2,Pending
+2023-04-16,37511.01,PRD043,CUST1746,Sneha Roy,Toys,Bangalore,Debit Card,4,Delivered
+2023-07-07,12574.04,PRD039,CUST4535,Vikram Das,Books,Kolkata,Debit Card,3,Delivered
+2024-11-21,44746.62,PRD031,CUST5649,Neha Das,Electronics,Hyderabad,Debit Card,4,Pending
+2023-04-23,22804.62,PRD083,CUST4563,Arjun Gupta,Clothing,Kolkata,UPI,4,Delivered
+2023-03-20,23099.37,PRD084,CUST5695,Vikram Das,Beauty,Bangalore,UPI,4,Delivered
+2023-09-07,260.01,PRD102,CUST8596,Arjun Patel,Toys,Mumbai,Credit Card,2,Delivered
+2023-06-17,21851.86,PRD125,CUST6677,Priya Singh,Electronics,Mumbai,Credit Card,5,Pending
+2023-08-07,32485.95,PRD129,CUST7477,Priya Mitra,Beauty,Chennai,Cash on Delivery,3,Cancelled
+2024-01-08,446.01,PRD079,CUST7845,Anjali Sharma,Books,Hyderabad,Debit Card,4,Pending
+2023-08-01,29590.57,PRD123,CUST6959,Neha Singh,Home & Kitchen,Bangalore,Debit Card,2,Delivered
+2023-02-12,34749.95,PRD105,CUST8404,Priya Verma,Home & Kitchen,Bangalore,Credit Card,2,Pending
+2024-06-26,38611.48,PRD004,CUST9371,Arjun Das,Electronics,Hyderabad,Debit Card,5,Cancelled
+2024-11-24,44699.15,PRD101,CUST6175,Priya Verma,Clothing,Hyderabad,Cash on Delivery,2,Delivered
+2024-05-20,25097.27,PRD141,CUST2011,Rahul Mitra,Electronics,Mumbai,Debit Card,3,Pending
+2024-11-16,30258.07,PRD085,CUST1681,Anjali Sen,Home & Kitchen,Delhi,Debit Card,2,Cancelled
+2024-11-07,49493.56,PRD005,CUST3658,Riya Roy,Clothing,Bangalore,UPI,5,Pending
+2024-11-03,45070.97,PRD065,CUST2530,Anjali Mitra,Clothing,Delhi,UPI,2,Delivered
+2023-08-29,26207.52,PRD071,CUST1175,Priya Patel,Clothing,Mumbai,Credit Card,2,Cancelled
+2024-08-27,1940.19,PRD031,CUST1441,Vikram Gupta,Home & Kitchen,Mumbai,Cash on Delivery,1,Pending
+2023-04-08,19807.29,PRD052,CUST4207,Anjali Singh,Toys,Hyderabad,Cash on Delivery,4,Delivered
+2025-03-26,17330.5,PRD021,CUST4336,Amit Patel,Home & Kitchen,Hyderabad,Cash on Delivery,5,Pending
+2023-11-15,3487.3,PRD106,CUST6051,Priya Sen,Home & Kitchen,Bangalore,Cash on Delivery,2,Cancelled
+2024-02-23,30442.32,PRD133,CUST6362,Sourav Sharma,Toys,Mumbai,Credit Card,2,Cancelled
+2024-05-11,19856.73,PRD143,CUST7593,Neha Sharma,Home & Kitchen,Hyderabad,Credit Card,4,Pending
+2025-04-30,18147.45,PRD056,CUST8432,Priya Sharma,Toys,Chennai,Cash on Delivery,4,Cancelled
+2025-06-04,39390.86,PRD115,CUST3972,Sourav Gupta,Home & Kitchen,Bangalore,Credit Card,5,Delivered
+2023-10-12,15038.42,PRD124,CUST8542,Neha Patel,Clothing,Mumbai,Cash on Delivery,2,Pending
+2025-01-06,44729.72,PRD047,CUST7805,Anjali Das,Toys,Bangalore,UPI,3,Pending
+2023-06-18,16424.51,PRD088,CUST9271,Priya Patel,Beauty,Kolkata,UPI,4,Delivered
+2023-05-02,7386.57,PRD082,CUST2111,Anjali Das,Toys,Hyderabad,UPI,5,Cancelled
+2025-02-18,36389.3,PRD032,CUST4148,Riya Verma,Home & Kitchen,Mumbai,UPI,2,Cancelled
+2023-11-22,32542.41,PRD078,CUST3080,Rahul Singh,Home & Kitchen,Bangalore,UPI,3,Cancelled
+2023-09-07,535.41,PRD133,CUST3033,Amit Patel,Toys,Delhi,UPI,2,Pending
+2024-11-21,7624.52,PRD050,CUST6484,Anjali Das,Beauty,Kolkata,Credit Card,3,Delivered
+2025-03-01,12303.54,PRD067,CUST2507,Arjun Sen,Toys,Kolkata,UPI,3,Delivered
+2025-01-25,32215.22,PRD020,CUST9040,Sourav Sen,Clothing,Mumbai,Cash on Delivery,3,Delivered
+2023-11-23,27068.83,PRD079,CUST8489,Sourav Patel,Home & Kitchen,Hyderabad,Debit Card,2,Pending
+2023-12-10,40630.53,PRD026,CUST4623,Anjali Das,Electronics,Delhi,Credit Card,4,Delivered
+2023-07-28,21386.2,PRD082,CUST7741,Riya Verma,Clothing,Kolkata,UPI,3,Cancelled
+2023-11-12,41142.59,PRD051,CUST5575,Amit Mitra,Books,Chennai,UPI,1,Cancelled
+2024-07-19,5023.36,PRD014,CUST6965,Rahul Verma,Home & Kitchen,Kolkata,UPI,5,Delivered
+2024-11-16,31566.13,PRD104,CUST6463,Sourav Roy,Toys,Kolkata,Debit Card,1,Pending
+2024-07-20,1647.58,PRD054,CUST3494,Riya Gupta,Home & Kitchen,Chennai,Cash on Delivery,2,Delivered
+2025-04-21,17493.68,PRD016,CUST2498,Vikram Sen,Beauty,Bangalore,Credit Card,3,Delivered
+2023-06-19,12266,PRD051,CUST5187,Sourav Gupta,Electronics,Hyderabad,UPI,5,Pending
+2025-02-02,47424.98,PRD132,CUST1764,Riya Das,Toys,Chennai,UPI,2,Delivered
+2025-02-12,29137.55,PRD015,CUST9988,Riya Singh,Electronics,Mumbai,UPI,2,Cancelled
+2023-12-20,4703.82,PRD137,CUST9425,Rahul Sen,Home & Kitchen,Mumbai,UPI,4,Pending
+2024-01-31,5772.3,PRD019,CUST5342,Sourav Patel,Books,Chennai,Credit Card,1,Delivered
+2025-03-12,36700.25,PRD084,CUST8252,Amit Patel,Electronics,Kolkata,Credit Card,3,Delivered
+2024-02-28,19507.25,PRD047,CUST8666,Anjali Patel,Toys,Mumbai,UPI,3,Delivered
+2024-08-02,41629.76,PRD076,CUST6341,Sneha Sen,Clothing,Hyderabad,Debit Card,4,Delivered
+2025-04-13,5398.45,PRD117,CUST6624,Sneha Verma,Toys,Kolkata,Credit Card,5,Cancelled
+2023-12-03,41089.98,PRD004,CUST1396,Sneha Sen,Beauty,Bangalore,Cash on Delivery,2,Delivered
+2023-06-27,42622.02,PRD079,CUST9534,Sourav Chatterjee,Toys,Delhi,Cash on Delivery,5,Pending
+2023-11-13,42075.24,PRD003,CUST1387,Vikram Sharma,Clothing,Mumbai,UPI,3,Delivered
+2025-01-19,44917.1,PRD058,CUST8029,Riya Das,Home & Kitchen,Kolkata,Cash on Delivery,4,Pending
+2023-08-23,11213.47,PRD120,CUST3616,Arjun Sen,Beauty,Mumbai,Credit Card,5,Pending
+2025-01-12,31120.52,PRD134,CUST6488,Riya Gupta,Home & Kitchen,Delhi,Cash on Delivery,2,Delivered
+2023-01-14,5179.04,PRD017,CUST6165,Riya Singh,Electronics,Delhi,Debit Card,4,Cancelled
+2023-06-05,1960.78,PRD018,CUST9801,Sourav Singh,Electronics,Bangalore,Credit Card,4,Pending
+2024-08-18,37807.26,PRD068,CUST2215,Rahul Mitra,Clothing,Bangalore,Credit Card,1,Cancelled
+2024-11-09,39991.68,PRD020,CUST5616,Anjali Gupta,Toys,Kolkata,Cash on Delivery,1,Pending
+2024-10-18,36505.45,PRD045,CUST8015,Riya Patel,Books,Mumbai,Credit Card,5,Pending
+2023-06-11,11595.13,PRD140,CUST5124,Priya Singh,Home & Kitchen,Kolkata,Debit Card,1,Cancelled
+2023-02-15,18253.41,PRD144,CUST6915,Vikram Sharma,Electronics,Kolkata,Debit Card,4,Cancelled
+2025-01-15,43298.69,PRD062,CUST1953,Riya Patel,Clothing,Kolkata,Debit Card,5,Pending
+2024-02-14,32835.31,PRD114,CUST9154,Vikram Singh,Beauty,Delhi,Cash on Delivery,3,Pending
+2024-09-30,32572.65,PRD094,CUST7879,Neha Verma,Home & Kitchen,Hyderabad,Credit Card,1,Cancelled
+2024-11-20,42778.08,PRD025,CUST6072,Rahul Singh,Beauty,Chennai,Credit Card,5,Delivered
+2024-02-08,42047.13,PRD074,CUST9228,Rahul Roy,Beauty,Kolkata,UPI,1,Cancelled
+2023-06-03,40773.32,PRD135,CUST3716,Vikram Patel,Home & Kitchen,Kolkata,UPI,3,Pending
+2023-08-10,34681.02,PRD129,CUST1951,Neha Sharma,Books,Chennai,Debit Card,3,Cancelled
+2023-12-16,46753.29,PRD002,CUST8226,Amit Patel,Clothing,Delhi,Debit Card,3,Delivered
+2023-01-25,34148.27,PRD077,CUST4130,Rahul Sen,Books,Kolkata,UPI,3,Pending
+2025-04-05,26221.49,PRD083,CUST1343,Sourav Gupta,Clothing,Hyderabad,Cash on Delivery,5,Delivered
+2025-01-14,14091.23,PRD132,CUST6323,Arjun Verma,Home & Kitchen,Delhi,Credit Card,5,Cancelled
+2024-01-26,48364.72,PRD054,CUST1495,Anjali Sen,Clothing,Kolkata,Debit Card,5,Pending
+2024-11-03,16330.06,PRD058,CUST4674,Neha Roy,Electronics,Hyderabad,Cash on Delivery,2,Delivered
+2025-02-28,14136.37,PRD100,CUST1609,Amit Sen,Books,Kolkata,Credit Card,5,Delivered
+2024-08-04,41713.34,PRD009,CUST1354,Riya Das,Electronics,Chennai,Debit Card,1,Pending
+2023-08-08,2650.71,PRD141,CUST2763,Arjun Das,Electronics,Hyderabad,Debit Card,3,Cancelled
+2025-01-20,6531.22,PRD029,CUST9363,Priya Gupta,Home & Kitchen,Mumbai,Credit Card,2,Cancelled
+2024-03-14,5118.59,PRD015,CUST5142,Arjun Singh,Beauty,Mumbai,Cash on Delivery,2,Pending
+2023-03-17,29617.25,PRD139,CUST8468,Vikram Sen,Home & Kitchen,Mumbai,Debit Card,2,Delivered
+2024-11-14,21664.04,PRD054,CUST4919,Vikram Mitra,Home & Kitchen,Delhi,Cash on Delivery,5,Pending
+2025-06-08,15732.14,PRD126,CUST6511,Rahul Sharma,Electronics,Chennai,Credit Card,5,Pending
+2024-09-08,43096.21,PRD084,CUST2036,Arjun Singh,Books,Chennai,Debit Card,1,Pending
+2025-04-24,28700.03,PRD088,CUST9224,Riya Verma,Electronics,Bangalore,Cash on Delivery,1,Pending
+2024-07-26,6839.15,PRD072,CUST7803,Sneha Das,Electronics,Bangalore,Credit Card,2,Cancelled
+2025-01-20,45950.49,PRD126,CUST3597,Arjun Verma,Clothing,Kolkata,UPI,5,Cancelled
+2023-09-13,25757.76,PRD028,CUST2766,Priya Verma,Clothing,Bangalore,Cash on Delivery,4,Pending
+2025-01-02,405.79,PRD051,CUST2522,Sourav Patel,Clothing,Delhi,Debit Card,5,Delivered
+2025-04-29,12444.46,PRD050,CUST6845,Priya Das,Home & Kitchen,Bangalore,Debit Card,2,Cancelled
+2025-06-28,22503.74,PRD093,CUST6154,Neha Verma,Electronics,Bangalore,Credit Card,4,Cancelled
+2023-04-19,4450.64,PRD060,CUST1996,Rahul Gupta,Home & Kitchen,Delhi,Debit Card,5,Cancelled
+2024-05-05,35597.77,PRD136,CUST6559,Vikram Chatterjee,Home & Kitchen,Mumbai,Cash on Delivery,4,Cancelled
+2024-02-26,25384.56,PRD015,CUST8346,Sourav Patel,Beauty,Mumbai,UPI,1,Pending
+2024-11-25,31833.01,PRD068,CUST9836,Anjali Gupta,Beauty,Bangalore,Credit Card,2,Pending
+2025-06-22,24539.16,PRD087,CUST2136,Anjali Mitra,Beauty,Chennai,UPI,3,Delivered
+2024-02-17,36876.16,PRD148,CUST5038,Neha Sen,Beauty,Chennai,Credit Card,3,Cancelled
+2024-07-24,42352.77,PRD034,CUST4986,Riya Verma,Beauty,Mumbai,Cash on Delivery,5,Cancelled
+2023-06-14,23500.95,PRD084,CUST7475,Sneha Roy,Toys,Mumbai,Credit Card,5,Pending
+2023-08-30,6176.66,PRD078,CUST3772,Riya Das,Toys,Kolkata,Cash on Delivery,2,Pending
+2023-05-04,47185.81,PRD083,CUST2505,Priya Sen,Beauty,Kolkata,Debit Card,4,Pending
+2023-06-25,16985.04,PRD146,CUST4193,Priya Das,Toys,Chennai,UPI,3,Delivered
+2025-03-25,317.69,PRD115,CUST2864,Riya Singh,Toys,Hyderabad,Debit Card,1,Pending
+2023-03-12,15846.6,PRD013,CUST4934,Amit Patel,Toys,Mumbai,Credit Card,4,Pending
+2023-05-15,22736.54,PRD029,CUST4173,Sourav Sharma,Toys,Mumbai,UPI,4,Cancelled
+2024-08-09,3874.96,PRD071,CUST9719,Vikram Mitra,Home & Kitchen,Kolkata,UPI,4,Pending
+2023-08-01,12522.66,PRD119,CUST8505,Amit Mitra,Home & Kitchen,Hyderabad,UPI,5,Pending
+2024-10-16,9943.23,PRD145,CUST6172,Riya Sharma,Beauty,Delhi,Debit Card,3,Cancelled
+2023-05-14,28584.55,PRD126,CUST7420,Rahul Gupta,Electronics,Mumbai,UPI,2,Cancelled
+2024-08-04,35288.54,PRD108,CUST1657,Rahul Verma,Clothing,Mumbai,Credit Card,1,Pending
+2023-06-27,15893.79,PRD002,CUST1589,Arjun Gupta,Electronics,Hyderabad,Debit Card,5,Pending
+2025-06-08,2499.11,PRD069,CUST6180,Rahul Roy,Home & Kitchen,Bangalore,Cash on Delivery,5,Delivered
+2023-08-23,47883.64,PRD031,CUST1649,Sourav Patel,Toys,Mumbai,UPI,4,Delivered
+2024-04-29,8020.97,PRD020,CUST4275,Vikram Patel,Beauty,Hyderabad,Cash on Delivery,3,Delivered
+2025-01-11,7693.51,PRD091,CUST6265,Amit Patel,Beauty,Delhi,Credit Card,5,Pending
+2024-03-16,17664.48,PRD047,CUST1507,Rahul Gupta,Beauty,Kolkata,Credit Card,2,Pending
+2023-12-19,9150.92,PRD119,CUST6871,Riya Sen,Beauty,Mumbai,UPI,3,Cancelled
+2023-01-24,22517.92,PRD052,CUST3982,Vikram Das,Home & Kitchen,Hyderabad,Credit Card,4,Pending
+2024-04-30,41660.41,PRD085,CUST5841,Neha Chatterjee,Books,Mumbai,Debit Card,2,Cancelled
+2023-08-15,7455.34,PRD059,CUST3412,Anjali Sen,Toys,Hyderabad,UPI,2,Delivered
+2024-04-11,541.15,PRD021,CUST4521,Riya Sharma,Electronics,Delhi,Credit Card,3,Delivered
+2024-01-11,17219.92,PRD031,CUST4691,Amit Patel,Home & Kitchen,Hyderabad,Credit Card,5,Pending
+2024-02-05,4941.2,PRD005,CUST2167,Anjali Sen,Home & Kitchen,Delhi,Debit Card,1,Delivered
+2023-09-06,16116.15,PRD097,CUST7711,Sneha Gupta,Beauty,Chennai,Debit Card,4,Delivered
+2023-09-22,10289.02,PRD013,CUST5986,Rahul Chatterjee,Beauty,Kolkata,Credit Card,5,Pending
+2023-12-22,12662.53,PRD091,CUST3217,Neha Patel,Beauty,Mumbai,Cash on Delivery,4,Pending
+2024-02-15,23414.61,PRD022,CUST5388,Neha Das,Electronics,Delhi,Debit Card,3,Cancelled
+2023-05-28,40262.04,PRD022,CUST1939,Anjali Patel,Clothing,Hyderabad,Debit Card,5,Delivered
+2024-11-15,4790.06,PRD117,CUST2198,Vikram Gupta,Books,Kolkata,Debit Card,1,Cancelled
+2024-01-10,41218.14,PRD113,CUST6567,Sneha Patel,Books,Bangalore,Cash on Delivery,4,Delivered
+2024-03-03,45213.25,PRD032,CUST9831,Sneha Sharma,Home & Kitchen,Mumbai,Debit Card,4,Cancelled
+2024-02-01,2271.27,PRD052,CUST7606,Sourav Mitra,Beauty,Kolkata,Credit Card,1,Cancelled
+2023-07-04,49996.25,PRD028,CUST2837,Anjali Verma,Electronics,Chennai,UPI,2,Delivered
+2024-12-28,21084.34,PRD138,CUST2504,Vikram Sharma,Home & Kitchen,Kolkata,Credit Card,3,Delivered
+2023-09-11,45875.11,PRD103,CUST5411,Neha Gupta,Beauty,Delhi,UPI,1,Cancelled
+2024-06-17,7374.56,PRD006,CUST3365,Vikram Singh,Home & Kitchen,Bangalore,Cash on Delivery,5,Pending
+2025-02-25,39720.58,PRD123,CUST6816,Arjun Gupta,Beauty,Mumbai,Credit Card,1,Cancelled
+2023-05-05,34442.32,PRD014,CUST9616,Vikram Chatterjee,Home & Kitchen,Chennai,Debit Card,1,Cancelled
+2025-03-25,18868.76,PRD126,CUST3194,Rahul Patel,Electronics,Kolkata,Credit Card,3,Pending
+2023-09-15,39317.17,PRD021,CUST8355,Rahul Roy,Home & Kitchen,Chennai,Cash on Delivery,2,Pending
+2025-03-22,35220.09,PRD013,CUST6784,Neha Patel,Toys,Mumbai,UPI,5,Pending
+2024-10-12,10263.88,PRD061,CUST3942,Sneha Verma,Electronics,Bangalore,Cash on Delivery,2,Delivered
+2024-05-24,32375.69,PRD015,CUST8411,Sourav Chatterjee,Clothing,Bangalore,Debit Card,5,Delivered
+2025-05-18,19430.05,PRD025,CUST9067,Amit Das,Clothing,Delhi,Credit Card,3,Cancelled
+2025-01-28,10818.24,PRD029,CUST1957,Sourav Mitra,Books,Mumbai,Cash on Delivery,1,Cancelled
+2023-04-11,34784.56,PRD138,CUST8882,Riya Mitra,Beauty,Kolkata,Cash on Delivery,4,Cancelled
+2025-06-02,38576.2,PRD049,CUST6319,Sneha Das,Toys,Hyderabad,Debit Card,1,Delivered
+2023-09-09,39475.54,PRD074,CUST1056,Neha Sen,Books,Hyderabad,Credit Card,1,Cancelled
+2023-06-08,34410.79,PRD002,CUST1440,Sneha Sharma,Beauty,Kolkata,Debit Card,1,Cancelled
+2025-02-03,22255.36,PRD108,CUST4076,Sneha Singh,Beauty,Bangalore,Cash on Delivery,5,Delivered
+2024-02-17,17096.77,PRD126,CUST7033,Rahul Singh,Toys,Mumbai,Debit Card,1,Delivered
+2024-08-24,35291.88,PRD075,CUST8573,Sneha Patel,Clothing,Hyderabad,Cash on Delivery,5,Cancelled
+2023-10-02,16327.4,PRD001,CUST4088,Anjali Roy,Toys,Chennai,UPI,3,Pending
+2024-06-20,14128.15,PRD051,CUST9040,Sourav Das,Beauty,Mumbai,Cash on Delivery,3,Cancelled
+2023-09-15,22081.87,PRD039,CUST9423,Anjali Singh,Toys,Kolkata,UPI,4,Pending
+2025-03-30,39306.57,PRD030,CUST4980,Riya Sen,Beauty,Bangalore,Cash on Delivery,4,Cancelled
+2024-05-08,42851.52,PRD111,CUST1801,Vikram Das,Beauty,Delhi,UPI,4,Pending
+2023-04-03,18598.24,PRD042,CUST1157,Vikram Das,Books,Hyderabad,Debit Card,5,Delivered
+2024-01-03,8614.68,PRD009,CUST5170,Amit Patel,Home & Kitchen,Chennai,Credit Card,5,Cancelled
+2025-02-03,41306.84,PRD036,CUST7092,Amit Singh,Toys,Hyderabad,Debit Card,2,Delivered
+2023-06-14,36577.6,PRD033,CUST8256,Arjun Chatterjee,Toys,Mumbai,Cash on Delivery,2,Delivered
+2023-01-24,40779.8,PRD069,CUST7369,Arjun Das,Beauty,Kolkata,Credit Card,5,Delivered
+2025-03-04,33611.17,PRD022,CUST8958,Amit Das,Toys,Hyderabad,Debit Card,4,Cancelled
+2024-10-19,34038.58,PRD060,CUST1607,Arjun Gupta,Toys,Chennai,Credit Card,5,Pending
+2024-04-24,4548.89,PRD071,CUST8253,Arjun Sharma,Clothing,Mumbai,Credit Card,4,Delivered
+2024-09-16,28610.11,PRD013,CUST8314,Arjun Sharma,Clothing,Chennai,Credit Card,1,Pending
+2023-12-04,46751.28,PRD103,CUST8110,Riya Sharma,Electronics,Delhi,UPI,2,Cancelled
+2023-06-11,38983.93,PRD090,CUST9880,Amit Gupta,Home & Kitchen,Delhi,Cash on Delivery,3,Delivered
+2023-06-26,41512.23,PRD026,CUST6774,Rahul Das,Toys,Hyderabad,Debit Card,3,Pending
+2023-10-11,19624.95,PRD003,CUST6431,Vikram Mitra,Clothing,Chennai,Cash on Delivery,4,Cancelled
+2025-01-28,35167.88,PRD035,CUST8117,Vikram Patel,Electronics,Hyderabad,Credit Card,3,Pending
+2023-02-08,8868.19,PRD108,CUST6480,Sourav Sen,Clothing,Mumbai,Credit Card,5,Pending
+2025-04-16,9641.48,PRD076,CUST1961,Neha Sen,Home & Kitchen,Hyderabad,Credit Card,3,Cancelled
+2024-06-30,12623.88,PRD074,CUST6708,Riya Gupta,Toys,Hyderabad,Credit Card,3,Cancelled
+2025-02-20,3042.12,PRD096,CUST5332,Anjali Chatterjee,Clothing,Hyderabad,Debit Card,1,Delivered
+2024-05-01,46120.73,PRD143,CUST5767,Rahul Sharma,Books,Chennai,Debit Card,1,Delivered
+2025-06-04,9589.97,PRD030,CUST5353,Priya Das,Beauty,Chennai,Cash on Delivery,5,Pending
+2024-01-22,32080.24,PRD126,CUST8055,Rahul Sharma,Home & Kitchen,Hyderabad,Cash on Delivery,4,Cancelled
+2023-02-11,29872.33,PRD067,CUST2533,Riya Chatterjee,Toys,Chennai,Cash on Delivery,2,Cancelled
+2023-01-18,35303.34,PRD009,CUST3218,Rahul Verma,Toys,Mumbai,UPI,5,Delivered
+2025-05-03,49561.75,PRD080,CUST4047,Sneha Sen,Electronics,Chennai,Cash on Delivery,3,Pending
+2023-01-04,44027.81,PRD109,CUST9848,Sneha Gupta,Clothing,Bangalore,Credit Card,1,Delivered
+2023-10-04,44256.15,PRD074,CUST5624,Riya Sharma,Clothing,Kolkata,Debit Card,1,Delivered
+2024-10-30,19926.79,PRD043,CUST2602,Sneha Sen,Books,Bangalore,Debit Card,1,Delivered
+2024-07-14,21557.3,PRD082,CUST3066,Amit Patel,Toys,Bangalore,Debit Card,4,Pending
+2025-04-26,15097.73,PRD022,CUST5391,Priya Chatterjee,Beauty,Chennai,UPI,3,Cancelled
+2024-11-01,29601.64,PRD077,CUST7060,Rahul Sharma,Toys,Hyderabad,Credit Card,5,Pending
+2024-08-08,43144.4,PRD038,CUST5355,Neha Singh,Beauty,Delhi,Cash on Delivery,3,Delivered
+2023-12-15,45298.46,PRD059,CUST9334,Anjali Patel,Clothing,Hyderabad,UPI,3,Delivered
+2023-07-01,26217.01,PRD119,CUST1011,Sneha Singh,Beauty,Hyderabad,UPI,5,Delivered
+2025-06-21,13509,PRD035,CUST1158,Rahul Sen,Toys,Chennai,UPI,3,Pending
+2025-03-25,19504.48,PRD136,CUST3083,Anjali Roy,Home & Kitchen,Delhi,UPI,2,Cancelled
+2024-11-23,1173.79,PRD149,CUST2744,Vikram Sharma,Electronics,Mumbai,Cash on Delivery,5,Delivered
+2023-04-15,10207.9,PRD110,CUST2999,Riya Sen,Clothing,Delhi,Debit Card,2,Delivered
+2024-04-21,33954.48,PRD002,CUST6575,Priya Patel,Home & Kitchen,Mumbai,Cash on Delivery,1,Delivered
+2024-02-08,42734.9,PRD079,CUST8494,Amit Roy,Electronics,Mumbai,UPI,2,Delivered
+2023-11-02,23094.28,PRD132,CUST4905,Rahul Chatterjee,Beauty,Hyderabad,Credit Card,5,Cancelled
+2024-03-11,44988.95,PRD085,CUST4239,Sneha Roy,Home & Kitchen,Chennai,Cash on Delivery,3,Pending
+2024-06-24,49704.46,PRD017,CUST8037,Sneha Das,Beauty,Chennai,Debit Card,4,Pending
+2024-08-26,47992.28,PRD019,CUST3015,Riya Sharma,Beauty,Mumbai,UPI,3,Pending
+2024-04-06,28991.1,PRD114,CUST8174,Rahul Mitra,Books,Delhi,Debit Card,1,Delivered
+2024-07-27,26041.55,PRD089,CUST1230,Neha Sharma,Beauty,Mumbai,UPI,3,Pending
+2023-03-05,43814.54,PRD001,CUST2692,Riya Patel,Toys,Hyderabad,UPI,1,Pending
+2023-04-15,33352.86,PRD063,CUST7984,Sourav Verma,Electronics,Bangalore,Debit Card,4,Pending
+2024-08-30,45682.54,PRD140,CUST6340,Sourav Mitra,Electronics,Kolkata,UPI,2,Delivered
+2023-11-12,44410.37,PRD025,CUST7788,Sneha Mitra,Home & Kitchen,Delhi,UPI,3,Cancelled
+2024-11-03,8507.79,PRD062,CUST7606,Anjali Das,Toys,Delhi,Cash on Delivery,3,Pending
+2023-12-31,45404.63,PRD018,CUST5637,Sourav Sharma,Toys,Delhi,Credit Card,2,Delivered
+2023-03-14,320.12,PRD039,CUST3916,Rahul Mitra,Clothing,Kolkata,Debit Card,3,Delivered
+2024-01-22,13236.55,PRD122,CUST6370,Sourav Chatterjee,Clothing,Bangalore,Credit Card,3,Pending
+2024-06-20,14656.8,PRD049,CUST3194,Priya Sen,Home & Kitchen,Chennai,Credit Card,1,Cancelled
+2023-04-21,33196.49,PRD138,CUST2851,Amit Patel,Clothing,Mumbai,Debit Card,2,Delivered
+2023-05-05,30643.05,PRD144,CUST6856,Sourav Sharma,Books,Delhi,UPI,1,Cancelled
+2024-12-05,12619.24,PRD026,CUST6023,Amit Verma,Toys,Hyderabad,Debit Card,2,Delivered
+2023-03-06,41622.76,PRD111,CUST3290,Vikram Patel,Books,Delhi,Cash on Delivery,4,Cancelled
+2024-02-12,10270.99,PRD142,CUST3294,Arjun Sen,Books,Delhi,Cash on Delivery,3,Pending
+2023-12-03,24971.94,PRD101,CUST5628,Rahul Singh,Toys,Chennai,Debit Card,2,Pending
+2024-07-20,17080.48,PRD137,CUST2957,Sourav Das,Toys,Kolkata,Credit Card,1,Pending
+2024-12-14,23824.18,PRD026,CUST1390,Riya Chatterjee,Books,Delhi,Credit Card,4,Cancelled
+2024-08-08,33842.87,PRD111,CUST9721,Amit Roy,Toys,Chennai,Credit Card,2,Cancelled
+2024-10-09,23748.47,PRD111,CUST5690,Neha Sen,Books,Mumbai,Debit Card,2,Pending
+2025-04-24,34791.37,PRD107,CUST7720,Riya Chatterjee,Books,Bangalore,Credit Card,1,Delivered
+2024-12-12,26537.47,PRD076,CUST7084,Anjali Verma,Clothing,Chennai,Cash on Delivery,2,Cancelled
+2025-02-25,40255.43,PRD059,CUST4077,Sneha Patel,Toys,Bangalore,Credit Card,2,Delivered
+2025-06-23,43474.7,PRD028,CUST1297,Vikram Chatterjee,Books,Chennai,UPI,4,Cancelled
+2025-02-07,6318.51,PRD035,CUST8432,Sourav Singh,Toys,Hyderabad,Debit Card,5,Cancelled
+2024-01-16,17100.42,PRD114,CUST1869,Rahul Das,Clothing,Hyderabad,UPI,1,Cancelled
+2024-06-09,2124.28,PRD123,CUST2786,Amit Das,Clothing,Chennai,UPI,3,Cancelled
+2024-04-24,8218.74,PRD073,CUST2729,Vikram Sen,Beauty,Mumbai,Credit Card,1,Cancelled
+2023-10-25,32189.5,PRD013,CUST5139,Priya Gupta,Electronics,Chennai,UPI,5,Cancelled
+2023-10-11,16326.42,PRD104,CUST8316,Riya Sharma,Toys,Kolkata,Credit Card,4,Delivered
+2025-05-18,12434.95,PRD140,CUST3689,Vikram Das,Toys,Delhi,Credit Card,5,Cancelled
+2024-07-28,16168.85,PRD037,CUST2990,Priya Mitra,Home & Kitchen,Chennai,Debit Card,2,Delivered
+2024-03-30,2270.44,PRD075,CUST7370,Anjali Patel,Home & Kitchen,Hyderabad,Cash on Delivery,3,Pending
+2024-01-20,13550.34,PRD080,CUST5540,Neha Mitra,Toys,Bangalore,Debit Card,2,Delivered
+2023-04-30,38220.31,PRD093,CUST2410,Arjun Mitra,Home & Kitchen,Mumbai,Debit Card,1,Pending
+2025-02-14,26014.88,PRD104,CUST6344,Sneha Chatterjee,Electronics,Mumbai,Credit Card,4,Delivered
+2025-01-31,27367.32,PRD108,CUST3700,Neha Sen,Beauty,Bangalore,Debit Card,4,Delivered
+2024-11-22,25223.71,PRD084,CUST6619,Rahul Roy,Beauty,Mumbai,Cash on Delivery,1,Cancelled
+2024-04-10,26786.17,PRD089,CUST1653,Sourav Verma,Clothing,Kolkata,Debit Card,5,Cancelled
+2023-07-04,9719.24,PRD008,CUST4082,Priya Sen,Electronics,Chennai,Cash on Delivery,2,Cancelled
+2023-06-05,35686.45,PRD061,CUST3450,Amit Verma,Toys,Hyderabad,UPI,4,Cancelled
+2024-08-14,35957.83,PRD002,CUST5089,Vikram Verma,Beauty,Bangalore,UPI,4,Pending
+2024-05-04,12400.97,PRD067,CUST9463,Amit Singh,Home & Kitchen,Delhi,Credit Card,1,Cancelled
+2025-01-29,47534.8,PRD091,CUST9750,Riya Verma,Toys,Chennai,Debit Card,3,Delivered
+2024-08-23,2086.82,PRD100,CUST8924,Rahul Sharma,Books,Delhi,UPI,3,Cancelled
+2023-01-28,30059.75,PRD052,CUST3633,Neha Sen,Home & Kitchen,Bangalore,Cash on Delivery,5,Delivered
+2023-05-07,19492.89,PRD073,CUST5450,Riya Gupta,Toys,Hyderabad,Cash on Delivery,5,Pending
+2023-12-06,46882.53,PRD114,CUST5488,Sneha Mitra,Electronics,Hyderabad,UPI,2,Delivered
+2024-05-21,31381,PRD052,CUST1545,Arjun Roy,Books,Chennai,Debit Card,4,Pending
+2024-02-08,41535.36,PRD117,CUST7479,Amit Chatterjee,Toys,Hyderabad,Debit Card,5,Pending
+2025-05-01,24789.02,PRD107,CUST8797,Sneha Singh,Beauty,Kolkata,Credit Card,2,Delivered
+2023-10-07,22635.49,PRD077,CUST5587,Rahul Mitra,Toys,Mumbai,UPI,1,Delivered
+2023-06-22,16779.52,PRD081,CUST1643,Rahul Sharma,Clothing,Mumbai,Cash on Delivery,2,Delivered
+2024-03-15,39436.57,PRD085,CUST4360,Sourav Patel,Electronics,Hyderabad,Cash on Delivery,4,Cancelled
+2024-07-07,44927.51,PRD095,CUST4290,Riya Das,Books,Kolkata,UPI,1,Cancelled
+2024-03-29,33885.98,PRD095,CUST9957,Arjun Patel,Toys,Kolkata,Credit Card,2,Cancelled
+2024-09-15,41376.16,PRD101,CUST5916,Vikram Verma,Beauty,Chennai,Credit Card,4,Delivered
+2025-06-20,44275.29,PRD090,CUST5738,Neha Verma,Electronics,Delhi,Cash on Delivery,2,Cancelled
+2023-10-06,25959.56,PRD029,CUST1153,Vikram Patel,Toys,Hyderabad,Debit Card,2,Delivered
+2023-11-05,4538.56,PRD137,CUST5878,Rahul Chatterjee,Beauty,Delhi,UPI,2,Delivered
+2024-06-04,26296.5,PRD032,CUST5983,Sneha Singh,Electronics,Chennai,Credit Card,2,Delivered
+2023-02-09,22756.98,PRD122,CUST2854,Sneha Roy,Home & Kitchen,Bangalore,Credit Card,2,Cancelled
+2025-05-13,229.41,PRD081,CUST7368,Anjali Sharma,Home & Kitchen,Bangalore,UPI,5,Delivered
+2023-12-25,47822.53,PRD085,CUST5056,Amit Das,Home & Kitchen,Delhi,UPI,4,Cancelled
+2024-09-30,31203.25,PRD110,CUST6338,Riya Sen,Home & Kitchen,Kolkata,Debit Card,2,Delivered
+2023-04-19,13787.49,PRD040,CUST1469,Riya Verma,Clothing,Hyderabad,Cash on Delivery,4,Cancelled
+2025-06-12,5889.66,PRD116,CUST7877,Sourav Sen,Clothing,Kolkata,Debit Card,1,Delivered
+2023-06-28,20668.38,PRD068,CUST7329,Rahul Sharma,Toys,Kolkata,Debit Card,3,Cancelled
+2024-12-20,24924.48,PRD140,CUST4486,Priya Sen,Home & Kitchen,Chennai,UPI,2,Cancelled
+2024-09-23,40355.64,PRD098,CUST5928,Priya Sen,Toys,Kolkata,Credit Card,4,Cancelled
+2023-08-11,44093.73,PRD148,CUST9551,Sneha Chatterjee,Electronics,Kolkata,Debit Card,3,Delivered
+2023-01-30,28738.23,PRD146,CUST7311,Sneha Sharma,Books,Kolkata,Debit Card,1,Delivered
+2024-12-18,48511.96,PRD052,CUST4081,Priya Gupta,Electronics,Chennai,Debit Card,3,Pending
+2024-05-24,32682.73,PRD093,CUST9166,Sourav Roy,Beauty,Bangalore,Debit Card,3,Delivered
+2024-03-22,33121.88,PRD060,CUST1619,Sourav Patel,Books,Kolkata,Cash on Delivery,2,Delivered
+2024-10-22,34102.91,PRD122,CUST2108,Vikram Mitra,Books,Delhi,Credit Card,2,Pending
+2024-03-15,19881.67,PRD123,CUST4994,Neha Roy,Clothing,Chennai,Debit Card,2,Delivered
+2024-08-25,22331.85,PRD145,CUST4946,Rahul Patel,Toys,Hyderabad,Debit Card,1,Delivered
+2023-09-16,2323.29,PRD055,CUST9686,Rahul Das,Clothing,Mumbai,UPI,5,Delivered
+2023-03-28,15741.03,PRD041,CUST3209,Amit Verma,Books,Mumbai,UPI,2,Pending
+2023-07-22,41817.31,PRD135,CUST2506,Sneha Verma,Home & Kitchen,Kolkata,UPI,2,Delivered
+2023-08-04,23913.29,PRD134,CUST3081,Riya Chatterjee,Books,Bangalore,Cash on Delivery,4,Pending
+2023-01-06,19370.44,PRD017,CUST3012,Anjali Roy,Beauty,Hyderabad,Credit Card,2,Cancelled
+2023-10-09,12049.41,PRD139,CUST9701,Amit Das,Clothing,Hyderabad,Debit Card,4,Pending
+2024-04-21,20924.15,PRD057,CUST8874,Riya Gupta,Electronics,Delhi,UPI,5,Delivered
+2023-09-04,29943.12,PRD085,CUST5481,Arjun Patel,Toys,Kolkata,Cash on Delivery,1,Delivered
+2024-08-06,16392.66,PRD141,CUST2789,Anjali Sen,Books,Chennai,Credit Card,1,Delivered
+2023-10-26,32504.45,PRD144,CUST4945,Vikram Patel,Beauty,Chennai,UPI,1,Delivered
+2025-05-25,5591.51,PRD075,CUST3109,Riya Chatterjee,Electronics,Bangalore,UPI,5,Cancelled
+2023-03-11,17731.97,PRD137,CUST9740,Anjali Sen,Home & Kitchen,Hyderabad,Debit Card,1,Delivered
+2025-05-29,34271.97,PRD088,CUST7655,Rahul Gupta,Books,Chennai,Cash on Delivery,2,Cancelled
+2023-01-17,31546.16,PRD069,CUST7319,Amit Verma,Home & Kitchen,Kolkata,UPI,4,Delivered
+2025-02-22,34966.85,PRD078,CUST4363,Sneha Patel,Electronics,Bangalore,Cash on Delivery,1,Delivered
+2024-08-22,14550.7,PRD130,CUST2480,Arjun Gupta,Books,Hyderabad,Cash on Delivery,2,Delivered
+2024-07-04,27555.95,PRD048,CUST7613,Rahul Mitra,Clothing,Mumbai,Cash on Delivery,4,Cancelled
+2025-03-18,43954.4,PRD066,CUST2425,Sourav Sen,Beauty,Delhi,Cash on Delivery,2,Pending
+2024-01-09,34445.19,PRD107,CUST2233,Priya Gupta,Home & Kitchen,Hyderabad,Debit Card,3,Delivered
+2024-12-01,5458.32,PRD080,CUST1186,Sneha Patel,Toys,Hyderabad,UPI,2,Pending
+2024-03-30,31775.39,PRD061,CUST1540,Rahul Verma,Toys,Delhi,UPI,5,Cancelled
+2023-11-30,40937.61,PRD098,CUST8848,Vikram Das,Home & Kitchen,Bangalore,Cash on Delivery,3,Delivered
+2025-01-21,29860.83,PRD018,CUST1153,Amit Patel,Electronics,Mumbai,UPI,1,Cancelled
+2025-05-05,32110.73,PRD069,CUST4902,Rahul Roy,Beauty,Chennai,Credit Card,2,Cancelled
+2024-01-04,17204.01,PRD010,CUST4034,Vikram Roy,Home & Kitchen,Kolkata,Credit Card,5,Pending
+2023-01-20,32241.14,PRD129,CUST5480,Priya Mitra,Books,Kolkata,Credit Card,4,Cancelled
+2024-02-29,4565.53,PRD129,CUST3160,Vikram Gupta,Clothing,Chennai,UPI,2,Cancelled
+2025-04-29,5039.44,PRD148,CUST1439,Neha Patel,Clothing,Kolkata,Credit Card,3,Pending
+2025-04-29,34559.21,PRD076,CUST1384,Riya Gupta,Beauty,Chennai,Credit Card,3,Pending
+2024-01-01,12007.26,PRD066,CUST9240,Neha Verma,Home & Kitchen,Kolkata,Credit Card,2,Delivered
+2023-07-30,46832.36,PRD107,CUST4937,Anjali Verma,Books,Bangalore,Credit Card,2,Pending
+2024-03-23,8975.93,PRD006,CUST9736,Neha Patel,Electronics,Chennai,Cash on Delivery,1,Pending
+2023-09-21,37075.44,PRD024,CUST4217,Neha Roy,Electronics,Kolkata,UPI,1,Delivered
+2024-06-01,45671.05,PRD007,CUST5793,Rahul Chatterjee,Electronics,Bangalore,Debit Card,1,Delivered
+2025-04-19,10599.55,PRD010,CUST6364,Rahul Verma,Electronics,Kolkata,Debit Card,1,Cancelled
+2024-01-07,13450.72,PRD105,CUST9173,Neha Gupta,Books,Kolkata,Cash on Delivery,2,Pending
+2025-03-11,37215.49,PRD092,CUST3268,Anjali Chatterjee,Home & Kitchen,Bangalore,Cash on Delivery,2,Pending
+2024-12-08,37254,PRD141,CUST7891,Anjali Verma,Electronics,Mumbai,Cash on Delivery,4,Pending
+2023-01-16,8692.94,PRD129,CUST9814,Vikram Verma,Home & Kitchen,Mumbai,Cash on Delivery,2,Pending
+2024-05-18,36684.68,PRD137,CUST8873,Arjun Gupta,Electronics,Delhi,Credit Card,2,Delivered
+2024-12-11,41197.71,PRD027,CUST8449,Amit Mitra,Home & Kitchen,Bangalore,Debit Card,5,Pending
+2025-06-04,23803.51,PRD009,CUST6150,Anjali Sen,Home & Kitchen,Chennai,Credit Card,2,Pending
+2023-09-29,43406.09,PRD113,CUST2576,Neha Mitra,Electronics,Mumbai,Debit Card,4,Delivered
+2025-04-06,43347.9,PRD072,CUST1225,Amit Verma,Home & Kitchen,Kolkata,UPI,5,Pending
+2024-08-05,21755.94,PRD131,CUST8861,Riya Patel,Clothing,Hyderabad,Cash on Delivery,3,Cancelled
+2023-09-16,43181.62,PRD021,CUST1765,Arjun Roy,Books,Delhi,UPI,5,Pending
+2023-07-30,40987.09,PRD027,CUST8719,Sneha Verma,Beauty,Hyderabad,UPI,2,Pending
+2025-05-28,46126.79,PRD054,CUST7000,Neha Sen,Toys,Hyderabad,Cash on Delivery,4,Cancelled
+2023-10-01,34908.36,PRD037,CUST2647,Arjun Patel,Beauty,Chennai,UPI,5,Pending
+2025-03-30,16441.66,PRD150,CUST1591,Sneha Sharma,Books,Bangalore,Debit Card,2,Cancelled
+2024-11-10,31360.12,PRD104,CUST7683,Sourav Mitra,Books,Bangalore,Debit Card,1,Pending
+2024-08-03,18460.25,PRD099,CUST4074,Priya Roy,Toys,Hyderabad,Cash on Delivery,2,Cancelled
+2025-06-01,17011.36,PRD030,CUST3614,Sourav Das,Beauty,Chennai,Cash on Delivery,3,Pending
+2024-04-13,16825.98,PRD064,CUST3906,Priya Mitra,Electronics,Chennai,Debit Card,2,Pending
+2024-07-03,10644.09,PRD065,CUST1086,Amit Gupta,Books,Delhi,Credit Card,5,Delivered
+2023-04-26,48972.93,PRD063,CUST7698,Rahul Gupta,Home & Kitchen,Bangalore,Cash on Delivery,1,Pending
+2024-11-22,21072.03,PRD053,CUST5927,Arjun Chatterjee,Books,Hyderabad,Debit Card,4,Delivered
+2025-04-18,43276.84,PRD124,CUST2492,Vikram Roy,Home & Kitchen,Mumbai,Debit Card,4,Pending
+2025-06-22,37430.72,PRD069,CUST9642,Vikram Verma,Home & Kitchen,Kolkata,Cash on Delivery,1,Pending
+2025-05-21,19434.6,PRD069,CUST1744,Sneha Patel,Electronics,Hyderabad,UPI,1,Pending
+2025-06-21,48024.3,PRD069,CUST6448,Vikram Singh,Home & Kitchen,Kolkata,Credit Card,5,Pending
+2023-12-23,4628.94,PRD084,CUST4707,Sourav Verma,Electronics,Chennai,Debit Card,5,Pending
+2025-04-30,14200.64,PRD115,CUST4911,Sourav Singh,Toys,Chennai,UPI,4,Delivered
+2024-07-24,6501.61,PRD040,CUST7075,Sourav Singh,Beauty,Bangalore,Debit Card,4,Pending
+2024-03-03,19515.57,PRD023,CUST4389,Sourav Patel,Home & Kitchen,Chennai,UPI,5,Delivered
+2023-04-10,18678.01,PRD148,CUST1678,Neha Verma,Beauty,Chennai,UPI,2,Cancelled
+2025-04-01,45035.7,PRD061,CUST8650,Rahul Das,Clothing,Bangalore,Credit Card,2,Cancelled
+2023-09-15,19700.77,PRD095,CUST9266,Riya Gupta,Books,Bangalore,UPI,4,Cancelled
+2024-11-19,37911.13,PRD108,CUST8697,Anjali Singh,Beauty,Chennai,Credit Card,1,Cancelled
+2025-06-27,29491.94,PRD102,CUST5156,Anjali Roy,Beauty,Bangalore,Debit Card,1,Pending
+2023-08-22,26399.64,PRD090,CUST4470,Priya Mitra,Home & Kitchen,Chennai,UPI,4,Pending
+2025-05-31,24902.61,PRD046,CUST3935,Anjali Sharma,Books,Chennai,Debit Card,4,Delivered
+2025-05-30,25660.88,PRD149,CUST6092,Riya Gupta,Home & Kitchen,Chennai,UPI,5,Delivered
+2023-05-06,42551.41,PRD024,CUST4377,Sneha Gupta,Books,Chennai,UPI,1,Cancelled
+2023-07-26,3848.04,PRD005,CUST7965,Sourav Singh,Home & Kitchen,Chennai,UPI,4,Cancelled
+2023-08-08,3271.1,PRD002,CUST3129,Neha Das,Toys,Delhi,Debit Card,3,Pending
+2025-03-28,26481.2,PRD040,CUST5717,Anjali Chatterjee,Toys,Hyderabad,Cash on Delivery,4,Delivered
+2023-12-15,4179.77,PRD147,CUST9323,Vikram Patel,Home & Kitchen,Bangalore,Cash on Delivery,2,Cancelled
+2023-02-18,14596.52,PRD056,CUST8436,Arjun Singh,Electronics,Bangalore,Cash on Delivery,5,Delivered
+2024-08-06,21968.83,PRD034,CUST1486,Amit Gupta,Books,Bangalore,UPI,5,Pending
+2023-02-04,22646.64,PRD011,CUST4484,Vikram Verma,Clothing,Chennai,UPI,5,Delivered
+2023-06-18,6617.64,PRD056,CUST3399,Amit Verma,Electronics,Hyderabad,UPI,3,Cancelled
+2024-06-08,4578.68,PRD075,CUST1611,Neha Roy,Books,Mumbai,Cash on Delivery,5,Cancelled
+2025-04-19,547.98,PRD098,CUST6425,Priya Mitra,Books,Mumbai,Debit Card,1,Pending
+2024-01-17,25297.22,PRD054,CUST7185,Amit Das,Beauty,Chennai,Debit Card,5,Delivered
+2024-03-06,48576.05,PRD058,CUST4409,Anjali Roy,Toys,Chennai,Debit Card,1,Pending
+2023-08-30,26745.98,PRD082,CUST8209,Arjun Roy,Home & Kitchen,Bangalore,Debit Card,5,Delivered
+2025-05-09,47156.07,PRD010,CUST4664,Arjun Gupta,Toys,Hyderabad,UPI,5,Pending
+2023-02-18,25222.09,PRD147,CUST3377,Amit Das,Clothing,Kolkata,Cash on Delivery,3,Delivered
+2024-04-30,1981.86,PRD146,CUST9660,Sneha Das,Beauty,Bangalore,Cash on Delivery,3,Delivered
+2023-03-20,27761.68,PRD114,CUST6043,Sourav Sharma,Beauty,Kolkata,Debit Card,1,Pending
+2023-01-28,35036.64,PRD090,CUST2793,Arjun Verma,Electronics,Chennai,Credit Card,1,Delivered
+2025-06-03,4466.36,PRD124,CUST9507,Anjali Verma,Beauty,Delhi,Credit Card,2,Delivered
+2023-01-31,19551.13,PRD075,CUST1573,Anjali Gupta,Toys,Hyderabad,Credit Card,2,Delivered
+2025-02-03,26522.84,PRD112,CUST6215,Amit Das,Clothing,Delhi,Debit Card,1,Pending
+2023-11-21,22942.46,PRD139,CUST8855,Sneha Chatterjee,Toys,Chennai,Credit Card,2,Cancelled
+2024-06-21,21179.97,PRD040,CUST4027,Sneha Das,Toys,Delhi,Debit Card,3,Delivered
+2023-01-17,31776.05,PRD137,CUST6142,Neha Roy,Home & Kitchen,Hyderabad,Cash on Delivery,3,Delivered
+2023-09-16,42219.22,PRD133,CUST4009,Riya Mitra,Electronics,Mumbai,Credit Card,4,Delivered
+2023-09-01,38262.17,PRD064,CUST5729,Neha Roy,Beauty,Chennai,Credit Card,2,Cancelled
+2023-05-11,1215.45,PRD095,CUST9596,Sneha Patel,Home & Kitchen,Mumbai,Debit Card,4,Pending
+2024-11-15,18814.08,PRD090,CUST4075,Amit Sharma,Home & Kitchen,Delhi,Cash on Delivery,4,Pending
+2023-10-29,3323.57,PRD001,CUST2407,Vikram Chatterjee,Beauty,Kolkata,UPI,3,Cancelled

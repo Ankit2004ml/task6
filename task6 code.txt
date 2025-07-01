@@ -1,0 +1,71 @@
+create database online;
+use online;
+
+
+SELECT 
+    YEAR(`Order Date`) AS order_year,
+    MONTH(`Order Date`) AS order_month,
+    SUM(Amount) AS total_revenue,
+    COUNT(DISTINCT `Product ID`) AS total_orders
+FROM 
+    task6
+GROUP BY 
+    YEAR(`Order Date`), MONTH(`Order Date`)
+ORDER BY 
+    order_year, order_month;
+    
+    SELECT 
+    YEAR(`Order Date`) AS order_year,
+    MONTH(`Order Date`) AS order_month,
+    COUNT(DISTINCT `Product ID`) AS total_orders
+FROM 
+    online_sales
+GROUP BY 
+    YEAR(`Order Date`), MONTH(`Order Date`)
+ORDER BY 
+    order_year, order_month;
+    
+    
+SELECT 
+    YEAR(`Order Date`) AS year,
+    MONTH(`Order Date`) AS month,
+    `Order Status`,
+    COUNT(*) AS total_orders
+FROM task6
+GROUP BY YEAR(`Order Date`), MONTH(`Order Date`), `Order Status`
+ORDER BY year, month, `Order Status`;
+
+SELECT 
+    YEAR(`Order Date`) AS order_year,
+    MONTH(`Order Date`) AS order_month,
+    SUM(Amount) AS total_revenue
+FROM 
+    task6
+GROUP BY 
+    YEAR(`Order Date`), MONTH(`Order Date`)
+ORDER BY 
+    total_revenue DESC
+LIMIT 5;
+
+SELECT 
+    `Customer Name`,
+    SUM(Amount) AS total_spent
+FROM 
+    task6
+GROUP BY 
+    `Customer Name`
+ORDER BY 
+    total_spent DESC
+LIMIT 10;
+
+SELECT 
+    City, 
+    COUNT(*) AS cancelled_orders
+FROM 
+    task6
+WHERE 
+    `Order Status` = 'Cancelled'
+GROUP BY 
+    City
+ORDER BY 
+    cancelled_orders DESC;
